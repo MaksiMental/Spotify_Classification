@@ -1,0 +1,658 @@
+track_id,name,album,artist_name,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+4xb4uaZu6JaIeMhEdbpPZc,Mucki Bar,Sommerhits 2022,Tobias Rahim,20,0.78,0.718,8,-6.622,0,0.0339,0.14,0.0,0.2,0.795,136.952,180294,4
+09ISyLOPeuno7kKlzdbZuq,Stamp on the Ground - Radio Edit,Stamp On The Ground,ItaloBrothers,1,0.635,0.828,11,-7.575,0,0.0592,0.204,0.00924,0.116,0.276,149.953,198987,4
+5fwSHlTEWpluwOM0Sxnh5k,Pepas,Pepas,Farruko,80,0.762,0.766,7,-3.955,1,0.0343,0.00776,6.98e-05,0.128,0.442,130.001,287120,4
+3dezfGYW4OegKu3UYwoZ1n,Bara Bara Bere Bere,Bara Bara Bere Bere,Alex Ferrari,17,0.961,0.773,7,-4.742,1,0.18,0.0226,0.0,0.306,0.807,130.076,222640,4
+0wHayguZd1CeQDLYohXNMS,Turn The Lights Off (feat. Jon),Discolized,Kato,39,0.625,0.978,1,-3.434,0,0.0367,0.00186,0.000224,0.342,0.346,131.997,177387,4
+7bgknc0sSmkIWc2am7QDEv,Feberdrømmer Xx Dubai,Feberdrømmer Xx Dubai,Tobias Rahim,0,0.706,0.654,11,-6.648,0,0.0495,0.202,6.76e-06,0.0979,0.438,136.014,221812,4
+5pmL3RzOy3IvGFaSDi4hZL,Hangover,TY.O (International Version),Taio Cruz,72,0.606,0.883,3,-3.243,1,0.0423,0.00872,0.0,0.0698,0.608,128.053,244907,4
+71R6zJsrF3ffc3TBFHfivX,Bumpy Ride,MoveMeant (International),Mohombi,70,0.706,0.842,0,-4.628,0,0.038,0.0476,0.0,0.134,0.818,104.958,224720,4
+0GiwV6v3AgJfdu59tj719Y,Pump It Up,Pump It Up,Endor,72,0.899,0.894,1,-7.255,1,0.222,0.203,9.95e-05,0.0606,0.654,129.047,150635,4
+5qaaQp6KvkEdB2q7SKQAcJ,ErruDumEllaHvad,ErruDumEllaHvad,ICEKIID,54,0.922,0.708,8,-5.618,0,0.262,0.281,0.000168,0.279,0.732,104.055,148942,4
+5uPv6fOsHPC8ZqxRKElxMP,Danser,Danser,GMG,48,0.906,0.7,11,-6.011,0,0.153,0.117,0.0,0.107,0.792,113.966,159187,4
+4iIW16VkwkQg1DmkSYMo7i,Malibu - Le Boeuf Remix,Malibu (Le Boeuf Remix),Skinz,39,0.756,0.771,0,-4.461,1,0.062,0.00491,0.0,0.238,0.539,117.961,202373,4
+6e7KGsngU13kguy5hTvSxe,Kender Ik' I Morgen,Carnival,Gilli,57,0.845,0.604,1,-6.873,1,0.136,0.109,0.0,0.206,0.916,142.007,147956,4
+2ynaRz7EuNbDrNrlr3QUjP,Danza Kuduro - Version MTO,Emigrante Del Mundo (Remastered),Lucenzo,48,0.482,0.968,7,-4.164,1,0.408,0.00967,0.0,0.0477,0.595,130.02,216352,4
+4QVkXnAfXjsMPmeHY7kS8c,Mit Rette Element,Mit Rette Element,Jasmin,50,0.672,0.661,1,-6.305,1,0.0802,0.191,0.0,0.106,0.525,128.009,192747,4
+4nwiW5Bk0ujXEGVU6wKbAg,Toca Toca - Radio Edit,Toca Toca,Fly Project,0,0.906,0.646,10,-3.635,0,0.0928,0.019,1.52e-05,0.0325,0.907,125.98,166360,4
+0Ph6L4l8dYUuXFmb71Ajnd,Livin' la Vida Loca,Ricky Martin,Ricky Martin,76,0.425,0.954,1,-3.756,0,0.0476,0.00414,0.0,0.0555,0.933,178.043,243160,4
+6gdDu39yYqPcaTgCwYEW8i,Turn On The Lights again.. (feat. Future),Turn On The Lights again.. (feat. Future),Fred again..,68,0.683,0.887,6,-4.944,0,0.0497,0.0125,0.446,0.318,0.551,132.007,267947,4
+40SBS57su9xLiE1WqkXOVr,Afraid To Feel,Afraid To Feel,LF SYSTEM,78,0.578,0.912,1,-3.929,1,0.114,0.0166,0.00362,0.273,0.68,127.87,177525,4
+4zN21mbAuaD0WqtmaTZZeP,Ferrari,Ferrari,James Hype,80,0.847,0.69,1,-7.877,0,0.0493,0.0127,6e-05,0.0526,0.692,125.004,186662,4
+4qkchijBTUVzbQt9jbPv9k,Blitzkrieg 2022 - Drammen,Blitzkrieg 2022 - Drammen,Kris Winther,57,0.809,0.93,1,-5.098,1,0.252,0.0256,0.0,0.724,0.712,128.035,185625,4
+7iDgbChcds7SjQBMswVRcv,Skiferie,Skiferie,Emil Lange,39,0.756,0.814,8,-5.68,1,0.0746,0.019,0.0119,0.22,0.885,126.01,203986,4
+2gjTJ5nL3obD41ZeucYS1C,Opladt (feat. Karl William),Hva ved de om Lams,Lamin,44,0.821,0.63,2,-7.126,1,0.293,0.0476,2.48e-05,0.0707,0.467,133.175,177519,4
+2kZ8BjIWd2TKzvOtFQpNkD,+45,Hva ved de om Lams,Lamin,51,0.886,0.518,0,-5.678,0,0.244,0.155,0.0,0.256,0.671,96.03,142737,4
+2prnn41CblB8B4yWACDljP,Love Tonight (David Guetta Remix Edit),Love Tonight (David Guetta Remix),Shouse,78,0.621,0.989,10,-4.225,0,0.0434,0.015,0.357,0.184,0.0348,126.002,158095,4
+2sEZIvBLWMPljdtrWakv9D,Tornado,Tornado,Volkoder,46,0.751,0.903,7,-7.164,1,0.0626,0.00661,0.836,0.107,0.726,125.008,184320,4
+2GYHyAoLWpkxLVa4oYTVko,Alors on danse - Radio Edit,Cheese,Stromae,78,0.79,0.593,1,-9.204,0,0.0776,0.0983,0.00202,0.065,0.72,119.958,206067,4
+7fZBQnc0zXwVybgCIrQQil,Belly Dancer,Belly Dancer,Imanbek,81,0.845,0.797,1,-4.984,1,0.139,0.0582,5.57e-06,0.167,0.422,121.985,151475,4
+5nSik4lEywOrK8HiNzWalx,Tilbud,21,TopGunn,0,0.744,0.75,9,-6.386,0,0.0717,0.0932,0.0,0.063,0.581,89.985,202088,4
+2geMSoH29SfXAZVgPR8avw,Boing!,3: Fresh-Fri-Fly,Nik & Jay,50,0.766,0.678,11,-6.153,0,0.0669,0.211,0.0,0.287,0.763,124.921,197320,4
+7xWiCG3N7tFgPTNGVYQoq8,Hot!,Nik & Jay,Nik & Jay,53,0.831,0.928,9,-5.085,0,0.0732,0.301,7.38e-06,0.436,0.944,125.008,192840,4
+5JpI77kH18RMNM0WmPtx99,Hvor Fuck Er Min Drink? (Artigeardit X Lamin),Ny Agenda,Artigeardit,52,0.814,0.787,1,-7.154,0,0.307,0.0937,1.27e-05,0.113,0.536,104.216,139188,4
+1dzQoRqT5ucxXVaAhTcT0J,Just Dance,The Fame,Lady Gaga,80,0.822,0.739,1,-4.541,0,0.0311,0.0264,4.28e-05,0.181,0.745,118.99,241933,4
+3a6GwXyS27Phmpr9XMv1h7,Miami Vicer,Carnival,Gilli,53,0.765,0.788,11,-5.499,0,0.0699,0.0995,0.0,0.393,0.797,140.947,151892,4
+5xYC48nOppVemY6U5GRGTb,Memories (feat. Kid Cudi),One More Love,David Guetta,64,0.546,0.916,8,-3.932,1,0.255,0.00144,4.34e-06,0.251,0.375,129.983,210853,4
+6bldUK7gjgeHbpxxoXd1xv,From Paris to Berlin (feat. Branco & Jimilian),From Paris to Berlin (feat. Branco & Jimilian),Infernal,43,0.794,0.925,11,-4.78,0,0.15,0.0171,0.000141,0.0638,0.908,125.967,152545,4
+0qUlNrJSXzvOvSCOqVwZdc,"Sender mig til månen (feat. Kidd, TopGunn, Klumben & ELOQ)","Sender mig til månen (feat. Kidd, TopGunn, Klumben & ELOQ)",Cheff Records,40,0.844,0.823,6,-5.079,1,0.0614,0.0383,0.0,0.335,0.836,126.03,147635,4
+5ugEs1yKkfWAFrOSnh5Jr9,Bedre,Bedre,KIDD,48,0.793,0.603,5,-4.066,0,0.133,0.0629,0.0,0.0751,0.448,142.094,203952,4
+02itaCXOdC54J0ISjqqFAp,All Around The World (La La La),All Around The World (La La La),R3HAB,75,0.733,0.859,9,-5.03,0,0.033,0.479,0.0645,0.105,0.52,124.948,147840,4
+56Ua2ypj5HWnotoIF3lEHc,STOR MAND (feat. Andreas Odbjerg),STOR MAND (feat. Andreas Odbjerg),Tobias Rahim,0,0.668,0.67,5,-6.094,1,0.0459,0.173,0.0,0.191,0.485,145.979,182816,4
+6wqpsj3Gjty9r6CFs5F6Ig,Lækker,Nik & Jay 2,Nik & Jay,49,0.83,0.863,8,-6.637,1,0.0893,0.27,5.46e-06,0.662,0.924,130.029,203960,4
+15UqDIySHN7BlafyZzzD4s,DRIPPY,DRIPPY,ICEKIID,38,0.813,0.694,3,-6.511,0,0.0848,0.145,0.0,0.409,0.894,109.935,194575,4
+2GajeoOS17ifAmYX8xxPZw,Ibiza,Mere End Musik,Benny Jamz,56,0.882,0.727,9,-6.539,0,0.259,0.125,0.0,0.113,0.407,133.131,219072,4
+3Mf5lroDtECoRWVUWnHCo8,Twerk It Like Miley,Truth,Brandon Beal,58,0.621,0.41,11,-7.806,1,0.386,0.199,0.0,0.11,0.337,68.055,200280,5
+2cCddpwGpx5H8xIrrNANCd,Yo-Yo,Grib Natten,Joey Moe,43,0.829,0.777,0,-6.159,1,0.0292,0.00103,0.0106,0.0913,0.429,126.965,219440,4
+5UqCQaDshqbIk3pkhy4Pjg,Levels - Radio Edit,Levels,Avicii,81,0.584,0.889,1,-5.941,0,0.0343,0.0462,0.828,0.309,0.464,126.04,199907,4
+7kQ5USXOqajlefGbavFfCe,Allerede Is,Emil Stabil,Emil Stabil,43,0.723,0.643,2,-6.138,1,0.0437,0.00276,3.48e-05,0.356,0.478,91.002,167617,4
+1nSmSAbdaRhTLSJHsk7c1I,Damer på lager,Mig Og Mig Selv,Jimilian,43,0.849,0.469,2,-6.885,0,0.0613,0.41,0.0,0.212,0.536,99.996,179800,4
+3VtgKy06wkxOLoxxe0lqXa,Destination Calabria,Destination Calabria,Masove,65,0.733,0.93,9,-6.483,0,0.0616,0.0437,0.116,0.0406,0.612,123.967,156774,4
+4frOeeJ58juLZIsnaALHSA,Solbriller,Solbriller,Kato,40,0.892,0.763,1,-4.328,1,0.159,0.0368,0.00988,0.127,0.623,125.002,190000,4
+4vAReYtMpAAFK6cyTE8WkZ,Buongiorno,Buongiorno,KIDD,51,0.707,0.6,7,-8.398,0,0.19,0.107,0.0,0.105,0.577,86.647,185144,5
+4F8T0eOXgFDGsv6cOi1GdU,Kom Af Sig Selv,IDIOT,Artigeardit,48,0.944,0.47,1,-8.684,0,0.495,0.453,0.0,0.0957,0.426,104.951,138573,4
+7h302xynmk4C047bIwq5t7,Gimme Gimme (feat. Bleech) - Club Mix,Summer Of Love,Kevin McKay,1,0.716,0.912,2,-4.7,0,0.034,0.00426,0.00112,0.0848,0.52,126.008,210476,4
+3UmC20CnRvX0bc1JotlnCy,Window,Window,Lamin,0,0.784,0.73,0,-7.008,1,0.267,0.0773,2.87e-06,0.098,0.671,69.247,149149,3
+09N9LGyKqWlLViq2bQjFxR,Vågen (Artigeardit X Lamin),Vågen (Artigeardit X Lamin),Artigeardit,57,0.891,0.663,1,-5.816,1,0.117,0.00311,5.47e-05,0.113,0.523,118.961,157815,4
+0SYgFUs4mbY9iNUxmUZ9iX,Peligrosa,Carnival,Gilli,49,0.716,0.775,7,-6.158,1,0.141,0.434,6.76e-05,0.383,0.472,130.079,155552,4
+4Jg4Qp4byYVpJ5m5NpiLa9,God Dag,God Dag,KESI,47,0.823,0.7,4,-4.907,0,0.0652,0.0665,2.21e-05,0.111,0.744,111.966,172857,5
+0Mx8IkqXleQAyrDz9aTOO6,Dejlig,Dejlig,TopGunn,48,0.791,0.684,9,-5.94,1,0.0528,0.0135,0.0,0.073,0.667,139.089,169016,4
+3T9RFgqWQ0KXxdo3AiaBUS,Hyggesang,Hyggesang,TopGunn,43,0.82,0.745,4,-3.657,0,0.0647,0.0649,0.0,0.102,0.562,103.999,149692,4
+4Xyu6ZK3AvE2qUfxAun6G8,Champion Part II (feat. Clemens & Jon),Discolized 2.0,Kato,41,0.713,0.885,6,-6.101,0,0.142,0.0535,0.0,0.082,0.733,127.889,201307,4
+11AZDeHTCik5zXmZAFzDST,HYGGE MYGGE,HYGGE MYGGE,RH,44,0.808,0.594,11,-6.125,0,0.213,0.157,0.000496,0.245,0.605,132.004,134722,4
+3ZPNiGjNS8r04HxfOKBjWH,Skub Til Taget (feat. Yepha) - Radio Edit,Skub Til Taget & Røgmaskine (feat. Yepha),Morten Hampenberg,34,0.69,0.946,10,-5.644,0,0.11,0.0561,0.0717,0.0712,0.422,126.031,212480,4
+63CSozvYUEudPp12679UVF,Don't Worry (with Ray Dalton) - Radio Edit,Don't Worry (feat. Ray Dalton),Madcon,73,0.811,0.699,7,-5.211,1,0.114,0.0726,1.38e-06,0.148,0.733,122.987,214789,4
+2OA0lvtzysJZ6T94uykqyb,6 Liter,Ingen Andre,TopGunn,48,0.912,0.537,1,-7.485,0,0.112,0.0404,0.0,0.0849,0.552,94.966,152426,4
+2HOupwtO1TPBLn23x3Lhry,Uhh Det Er Så Svært At Være Så God,Greatest Hits 2011,KIDD,39,0.679,0.815,7,-6.383,0,0.0823,0.00729,0.0,0.314,0.187,144.994,232027,4
+7hElLTkulLf3BLDh3rf2Vc,21,21,TopGunn,44,0.714,0.401,11,-9.396,1,0.32,0.0388,0.0,0.0427,0.926,88.689,111726,4
+2cawJP5YFZrCvBQQ2kBZAH,Den Dejligste Boy,Tesla,Benjamin Hav,51,0.847,0.724,9,-5.167,1,0.04,0.0213,0.00244,0.125,0.745,124.989,203497,4
+1pjvlYOMIg1NhGQbM6iwrY,Light It Up (feat. Nyla & Fuse ODG) [Remix],Peace Is The Mission : Extended,Major Lazer,78,0.747,0.877,9,-3.782,0,0.0664,0.0375,0.000833,0.233,0.752,107.991,166138,4
+7ef4DlsgrMEH11cDZd32M6,One Kiss (with Dua Lipa),One Kiss (with Dua Lipa),Calvin Harris,85,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,214847,4
+5O9gTB3YaUUJ39S6nN7rUn,Jeg har en pige,Ingen Drama,Skinz,47,0.72,0.588,11,-7.593,1,0.0483,0.137,0.0,0.058,0.589,143.947,201630,4
+5Mbtof5Olmn8JDvm6PI1Az,Efter Mig,Efter Mig,Jimilian,44,0.84,0.445,6,-9.875,0,0.054,0.0856,0.0,0.0769,0.656,102.014,195500,4
+48QmG1dfvMuYLxMPt7KSRA,No Lie,Mad Love The Prequel,Sean Paul,83,0.742,0.882,7,-2.862,1,0.117,0.0466,0.0,0.206,0.463,102.04,221176,4
+3bC1ahPIYt1btJzSSEyyrF,Whistle,Wild Ones,Flo Rida,79,0.747,0.937,0,-5.746,1,0.0453,0.0208,0.0,0.29,0.739,103.976,224653,4
+13plQdOoWSSXPRUSZc5FuM,I Know You Want Me (Calle Ocho),Pitbull Starring In Rebelution,Pitbull,72,0.817,0.733,2,-6.009,1,0.145,0.0152,4.31e-05,0.107,0.833,127.056,237120,4
+1k2FbKcd051jfxaE0PLZJF,Ma chérie (feat. The Beat Shakers) - DJ Antoine vs Mad Mark 2k12 Radio Edit,Ma Chérie (feat. The Beat Shakers),DJ Antoine,0,0.762,0.618,5,-5.032,0,0.219,0.0333,0.000131,0.0232,0.819,127.89,193093,4
+3LWDPEXEaLBRGNLbdcbwBR,Mr. Saxobeat - Radio Edit,Saxobeats,Alexandra Stan,77,0.726,0.931,11,-4.152,0,0.0468,0.0218,0.000283,0.143,0.797,126.976,195105,4
+127uq83uGFapbddqiMUKky,Sexy Bitch (feat. Akon),One More Love,David Guetta,63,0.813,0.627,11,-5.018,0,0.0486,0.0771,0.000616,0.131,0.801,130.011,195853,4
+2EBCVPNAG46nbgs6jXPGvv,Starships,Pink Friday: Roman Reloaded The Re-Up (Explicit Version),Nicki Minaj,79,0.747,0.716,11,-2.457,0,0.0751,0.135,0.0,0.251,0.751,125.006,210627,4
+5V1fxJi66v7y74F0Ghda8v,Mi Gente - Hugel Remix,Mi Gente (Hugel Remix),J Balvin,29,0.946,0.671,6,-4.436,0,0.175,0.0467,0.00114,0.0775,0.71,119.999,208367,4
+392zwJVuiuhDZC3ShNmLkD,We No Speak Americano (JT Radio Edit),We No Speak Americano (Complete Remixes),Yolanda Be Cool,0,0.901,0.805,6,-5.005,1,0.0464,0.0712,0.0812,0.0923,0.737,124.996,157438,4
+4rKO78BwBg2IBK3aoymw29,Vamos a la Playa - Radio Edit,Vamos a la Playa,Loona,49,0.7,0.959,9,-4.483,1,0.0499,0.103,0.0,0.404,0.877,131.005,177939,4
+1hGy2eLcmC8eKx7qr1tOqx,Beautiful Girls,Beautiful Girls,Sean Kingston,80,0.762,0.661,1,-6.075,0,0.0687,0.15,0.0,0.256,0.769,130.009,225373,4
+0QaKr4RHEmOCXpN39bAu0B,Don't Be so Shy - Filatov & Karas Remix,The Wrong Kind of War,Imany,0,0.768,0.902,8,-5.759,0,0.0584,0.0502,0.0111,0.386,0.903,119.984,191360,4
+3FNy4yzOhHhFBeA5p4ofoq,"Young, Wild & Free (feat. Bruno Mars)","Young, Wild & Free (feat. Bruno Mars)",Snoop Dogg,72,0.553,0.652,0,-6.685,1,0.206,0.0897,0.0,0.111,0.551,94.505,207347,4
+3H7ihDc1dqLriiWXwsc2po,Breaking Me,Breaking Me,Topic,76,0.789,0.72,8,-5.652,0,0.218,0.223,0.0,0.129,0.664,122.031,166794,4
+6iWIzlxyssYOUn4TB3hiMF,Man Kan Ikke Stole På En Pige Med En Lille Røv,Man Kan Ikke Stole På En Pige Med En Lille Røv,TopGunn,44,0.791,0.68,0,-8.502,1,0.183,0.0391,0.0,0.235,0.194,93.95,156146,4
+25zzV6e68ZcvajrGpMkqP0,Dumt På Dig (feat. TopGunn) - Radio Edit,Dumt På Dig (feat. TopGunn),Kato,44,0.636,0.612,8,-5.507,0,0.0853,0.0387,0.0,0.0692,0.704,107.811,194652,4
+6vZ9Fgoy6lDqCbYNI67Ewt,Rum Bum Bum - Hedegaard Remix,Rum Bum Bum (Hedegaard Remix),NAVID,39,0.824,0.599,2,-7.202,1,0.0493,0.0652,1.38e-06,0.074,0.536,124.973,165187,4
+0RuOWMTZNK6qOjyQhPUaG1,Slem Igen (feat. Ceci Luca) - Hedegaard Remix,Slem Igen (feat. Ceci Luca) [Hedegaard Remix],Blak,41,0.744,0.601,6,-6.833,0,0.0432,0.0231,0.000372,0.0989,0.726,104.99,282029,4
+7oQclHqEOTPhT3gVXuBZ1Q,Dejlig - Balken Remix,Dejlig (Balken Remix),Balken,33,0.874,0.881,0,-5.165,0,0.131,0.0394,2.51e-06,0.155,0.557,123.016,139512,4
+7hIIrYe5SinoLOxdxsvVXv,Morgenfest,Morgenfest,Heino,0,0.806,0.96,6,-4.358,0,0.0937,0.151,0.00101,0.12,0.367,128.036,192000,4
+4zIonNNfOMBWfTww8LWuFu,VARM,VARM,TopGunn,36,0.694,0.724,1,-6.557,1,0.246,0.0637,0.000107,0.095,0.77,189.974,144958,4
+5WQ8ISlwGUrkdtxTbajDJ1,Pool (feat. TopGunn),Pool (feat. TopGunn),Citybois,48,0.75,0.805,5,-5.193,0,0.0828,0.147,0.0,0.107,0.708,108.016,179308,4
+5uEYRdEIh9Bo4fpjDd4Na9,Goosebumps - Remix,Goosebumps (Remix),Travis Scott,77,0.841,0.593,1,-7.846,1,0.0379,0.418,0.0,0.124,0.808,124.917,162803,4
+2LEF1A8DOZ9wRYikWgVlZ8,Good Feeling,Wild Ones,Flo Rida,79,0.706,0.89,1,-4.444,0,0.0688,0.0588,0.00286,0.306,0.684,128.011,248133,4
+0RcrxkcFT5FJpDgaXmzIEF,Gonzo,Sindssyge Ting,Suspekt,54,0.748,0.524,1,-9.48,1,0.265,0.0286,4.51e-05,0.154,0.305,99.975,172507,4
+38dUmnbyUHgflv5E8JgutG,Øde Ø,Ingen Kan Love Dig I Morgen,Rasmus Seebach,52,0.759,0.836,8,-4.807,1,0.035,0.145,0.0,0.129,0.933,115.991,251613,4
+1J9Raj56eqraMTdgkRSGqJ,Sommer Sindssyg,Sommer Sindssyg / Tid Til Mig,Jimilian,42,0.709,0.727,9,-5.596,0,0.0355,0.122,0.0,0.0468,0.584,113.029,176394,4
+1koPLrxD2OUuQQAK5Dm9E2,Lågsus,Absolute Fitness World,Specktors,32,0.675,0.719,2,-4.919,1,0.0461,0.135,0.0,0.786,0.275,89.986,211164,4
+65oYD99ubM8bIUIRPY9nXc,No Warning,No Warning,ICEKIID,43,0.921,0.734,7,-5.844,1,0.116,0.198,1.4e-06,0.108,0.842,124.022,149274,4
+3ocDvCWPL9ov06X8zMo0Nr,Bitches & Booze (feat. TopGunn & Brandon Beal),Bitches & Booze (feat. TopGunn & Brandon Beal),Kato,39,0.611,0.672,6,-7.002,1,0.314,0.0782,0.0,0.0775,0.736,97.666,171285,4
+5iNRPN7oYQvdB9AmeSW6d3,Trap Queen,Fetty Wap (Deluxe),Fetty Wap,70,0.746,0.873,7,-3.803,1,0.128,0.0244,0.0,0.354,0.817,148.075,222093,4
+62pIfDe2RdhUfYmRWdo9ZJ,Tacatà - Radio Edit,Tacata',Tacabro,44,0.812,0.857,4,-6.034,1,0.103,0.0083,0.0,0.354,0.651,126.951,210000,4
+5fp40teaKjFmPGX3HvDLXZ,LELELE,ALLO / LELELE,ZUUZ,50,0.77,0.623,9,-7.644,0,0.338,0.282,0.0,0.343,0.814,145.117,136987,4
+3TD0VtH37WAjrGflIzeS0H,Lyca (feat. Kesi),Kiko,Gilli,49,0.891,0.576,4,-6.807,0,0.0912,0.0867,1.88e-06,0.0587,0.799,106.967,143222,4
+49clGe0PtbYUx3vB7tyk3A,All My Love,Natsværmer,Rocazino,56,0.773,0.627,4,-6.037,0,0.0316,0.00614,3.13e-06,0.0963,0.666,129.464,214320,4
+602zU1j10XTGy08hUcJoQd,Million,Joey,Joey Moe,45,0.732,0.769,0,-6.596,0,0.0487,0.116,0.0,0.17,0.765,95.025,184570,4
+2rfl7SRwfel3gNhXBmL60u,Verden Vågner (feat. Saveus),Suave World,Gilli,59,0.565,0.764,5,-5.452,0,0.306,0.371,0.00192,0.123,0.734,94.686,156137,4
+4TduZWpCeQP1YKrrqzPbw4,Paid,Suave World,Gilli,48,0.808,0.692,8,-6.708,1,0.188,0.013,0.00323,0.138,0.382,129.04,136710,4
+7DzV3IBvCHicokoiUCpWda,Romario,Suave World,Gilli,52,0.888,0.594,10,-5.49,0,0.0948,0.188,2.13e-05,0.0913,0.923,127.991,174368,4
+35PyQF7tMg1yFWqQO9TaVq,Søvnløs,Barn Af Byen,KESI,39,0.794,0.499,1,-7.533,1,0.0655,0.00391,0.000192,0.14,0.14,98.96,195219,4
+63Dymm6U4WHLRy87e8GBbo,"Gode Dage, Gode Drinks",Kronisk Skeptisk,Lamin,56,0.789,0.703,0,-7.401,1,0.367,0.0448,0.0,0.14,0.482,112.025,140089,4
+7qdykONOD1KESBGqyRDSkO,Fugle,Modgift,Djämes Braun,47,0.868,0.902,7,-5.246,0,0.134,0.0375,0.0,0.0719,0.798,118.007,200006,4
+4G1GPt7Jt7b9BFUieCdZKx,Money Dial,Suave World,Gilli,40,0.801,0.557,2,-6.39,1,0.0817,0.16,0.0,0.11,0.208,97.025,148544,4
+3wm6ITY3VAgvpFUOF3NW4A,4ÆverZenzyg (Klub Zenzyg) (feat. Svenstrup & Vendelboe),4ÆverZenzyg (Klub Zenzyg) (feat. Svenstrup & Vendelboe),Kongerne Af Næstved,34,0.768,0.77,10,-7.352,0,0.0885,0.21,0.000762,0.0914,0.315,130.003,203840,4
+0qA2qykpcGdVl3tiiYum4g,Blå Himmel (feat. Hans Philip),BO4L,KESI,57,0.743,0.529,3,-5.292,1,0.107,0.2,0.0,0.244,0.505,102.027,228590,4
+1fYNJKlLilEEBAKWDKD2vC,Neonlys,Neonlys,Ukendt Kunstner,55,0.796,0.801,11,-4.673,1,0.0316,0.0267,0.0,0.0965,0.71,124.905,187013,4
+0r4dJLEJYPVQhJDr5K0C0d,Smid Tøjet,Smid Tøjet,Jimilian,42,0.718,0.658,8,-3.912,1,0.0583,0.213,0.0,0.0788,0.357,100.024,167492,4
+4kYj5KlycEh41U2TS2SNpa,Baianá - Yo Johnny Remix,Baianá (Remixes),Gilli,36,0.869,0.752,10,-6.571,0,0.273,0.0178,0.00046,0.304,0.427,119.981,155498,4
+6Lu7LCf7t7V6X7i4NQywcT,Kom Over,Kom Over,KESI,51,0.489,0.69,8,-5.352,1,0.0856,0.0859,0.0,0.288,0.651,98.0,196165,4
+2gFaHRqjAE5ZNNnGr9eYG4,Nede Mette,SENE NÆTTER SYDPÅ,Blak,44,0.78,0.66,6,-5.438,1,0.0419,0.457,0.0,0.101,0.885,97.998,190373,4
+0ByMNEPAPpOR5H69DVrTNy,Don't Stop The Music,Good Girl Gone Bad: Reloaded,Rihanna,82,0.834,0.669,6,-5.582,0,0.0637,0.0341,7.18e-05,0.0535,0.547,122.669,267080,4
+5nujrmhLynf4yMoMtj8AQF,Levitating (feat. DaBaby),Future Nostalgia,Dua Lipa,80,0.702,0.825,6,-3.787,0,0.0601,0.00883,0.0,0.0674,0.915,102.977,203064,4
+2CEgGE6aESpnmtfiZwYlbV,Dynamite,The Rokstarr Hits Collection,Taio Cruz,76,0.751,0.781,4,-3.724,1,0.0862,0.0039,0.0,0.036,0.814,119.977,202613,4
+3E7dfMvvCLUddWissuqMwr,Party In The U.S.A.,The Time Of Our Lives (International Version),Miley Cyrus,82,0.652,0.698,10,-4.667,0,0.042,0.00112,0.000115,0.0886,0.47,96.021,202067,4
+6ND2f7SUjYNpLqL0WPcNT1,Down,Down,Jay Sean,0,0.654,0.684,2,-4.509,1,0.032,0.0108,0.0,0.0768,0.7,66.001,212280,4
+4E5P1XyAFtrjpiIxkydly4,Replay,Replay,Iyaz,80,0.706,0.751,9,-6.323,1,0.0708,0.173,0.0,0.168,0.195,91.031,182307,4
+14iN3o8ptQ8cFVZTEmyQRV,I Kissed A Girl,One Of The Boys,Katy Perry,75,0.702,0.76,5,-3.174,1,0.0684,0.00226,0.0,0.132,0.696,129.996,179640,4
+4Y7XAxTANhu3lmnLAzhWJW,Fireball (feat. John Ryan),Globalization,Pitbull,79,0.761,0.933,10,-5.38,1,0.056,0.0908,8.53e-05,0.0607,0.836,122.959,236200,4
+6lYuKZ7KA6Xn0EGmlaNfbu,Blondiner & Brunetter,Blondiner & Brunetter,ICEKIID,50,0.899,0.708,3,-5.048,1,0.0975,0.603,0.0,0.0385,0.974,106.033,220877,4
+62zFEHfAYl5kdHYOivj4BC,International Love (feat. Chris Brown),Planet Pit (Deluxe Version),Pitbull,79,0.67,0.855,0,-3.035,0,0.0499,0.0124,0.0,0.335,0.648,120.05,227280,4
+0k6DnZMLoEUH8NGD5zh2SE,Ayo,Fan of A Fan The Album (Expanded Edition),Chris Brown,72,0.823,0.563,6,-5.095,1,0.0443,0.0399,0.0,0.0851,0.682,98.031,225227,4
+7nPTjuVySLIUlgKrzTIFdb,Vai Amor,Kiko,Gilli,49,0.89,0.662,0,-5.462,1,0.199,0.0418,0.0258,0.0594,0.837,129.988,166353,4
+4yF9erb9bMUIRXr6QdPgP4,Su Casa,Su Casa,KESI,54,0.724,0.751,8,-4.144,0,0.0703,0.284,1.03e-06,0.0964,0.916,170.004,197176,4
+5OSH98PlarYwozcSR7lY19,Mamacita (feat. Benny Jamz),Mamacita (feat. Benny Jamz),KESI,50,0.694,0.633,5,-5.003,0,0.193,0.0873,1.33e-05,0.132,0.657,177.944,219922,4
+4OFKuiV1f8oZNS8q8zgTvM,3xK,BUSTUM (Deluxe),Ude Af Kontrol,42,0.887,0.651,3,-6.485,1,0.107,0.0843,0.0,0.143,0.516,125.018,212027,4
+3iw3baD9S0qirmFL2maY48,Suger Coke Fra Dit Røvhul,BUSTUM (Deluxe),Ude Af Kontrol,40,0.719,0.809,0,-5.302,1,0.31,0.102,0.0,0.219,0.624,122.989,180000,4
+03fotfwKgehMzxYcPZLk0x,Skru Op,BUSTUM (Deluxe),Ude Af Kontrol,41,0.896,0.978,8,-3.593,1,0.12,0.103,0.0,0.0495,0.707,128.006,155863,4
+5rb9QrpfcKFHM1EUbSIurX,Yeah! (feat. Lil Jon & Ludacris),Confessions (Expanded Edition),USHER,85,0.894,0.791,2,-4.699,1,0.112,0.0183,0.0,0.0388,0.583,105.018,250373,4
+0CAfXk7DXMnon4gLudAp7J,Low (feat. T-Pain),Mail on Sunday,Flo Rida,82,0.918,0.609,10,-5.64,0,0.0791,0.0928,0.0,0.139,0.304,128.008,231400,4
+7ySUcLPVX7KudhnmNcgY2D,S&M,Loud (Japan Version),Rihanna,82,0.769,0.685,1,-5.019,1,0.041,0.0105,0.000124,0.0887,0.836,127.977,243600,4
+0Hf4aIJpsN4Os2f0y0VqWl,Feel This Moment (feat. Christina Aguilera),Global Warming: Meltdown (Deluxe Version),Pitbull,80,0.673,0.758,7,-3.632,1,0.158,0.039,0.0,0.341,0.542,135.956,229507,4
+1V4jC0vJ5525lEF1bFgPX2,Shots,Party Rock,LMFAO,68,0.825,0.856,1,-1.912,1,0.0476,0.00851,1.4e-06,0.127,0.207,128.016,222133,4
+7mitXLIMCflkhZiD34uEQI,Party Rock Anthem,Sorry For Party Rocking,LMFAO,74,0.75,0.736,5,-4.168,0,0.155,0.0202,0.0,0.265,0.355,130.011,262147,4
+455AfCsOhhLPRc68sE01D8,Last Friday Night (T.G.I.F.),Teenage Dream: The Complete Confection,Katy Perry,73,0.649,0.814,3,-3.796,0,0.0416,0.00125,4.29e-05,0.671,0.764,126.031,230747,4
+60GwMZeymeZYj7GiEzHQ7d,Hvad Skal Der Ske (feat. ICEKIID),Kronisk Skeptisk,Lamin,54,0.855,0.716,3,-7.246,0,0.088,0.152,0.0,0.101,0.697,109.972,178184,4
+6fWA96ewH7R5ETHsXfbcaF,Himmeldiskoteket,Isas Stepz (Musikken fra TV-serien),Isas Stepz,39,0.719,0.673,1,-10.058,1,0.0585,0.00229,0.000339,0.108,0.756,127.983,217187,4
+6rIeYmk5oDB7QoJNRJVOgS,Tomgang,Shaka Loveless,Shaka Loveless,50,0.743,0.629,5,-5.773,0,0.126,0.0486,0.0,0.207,0.775,77.738,219760,4
+4QNpBfC0zvjKqPJcyqBy9W,Give Me Everything (feat. Nayer),Planet Pit (Deluxe Version),Pitbull,86,0.671,0.939,8,-3.206,1,0.161,0.191,0.0,0.298,0.53,129.024,252307,4
+7iL6o9tox1zgHpKUfh9vuC,In Da Club,Get Rich Or Die Tryin',50 Cent,82,0.899,0.713,6,-2.752,0,0.366,0.255,0.0,0.0708,0.777,90.051,193467,4
+5D2mYZuzcgjpchVY1pmTPh,Candy Shop,The Massacre,50 Cent,80,0.613,0.574,11,-7.961,1,0.467,0.0253,3.13e-05,0.38,0.755,125.18,209107,5
+0AH6WMe3OlAlUb5miXt2FQ,Only Girl (In The World),Loud,Rihanna,73,0.789,0.716,11,-4.241,0,0.0432,0.129,1.07e-05,0.069,0.611,125.906,235493,4
+0U10zFw4GlBacOy9VDGfGL,We Found Love,Talk That Talk,Rihanna,79,0.735,0.766,1,-4.485,1,0.0383,0.025,0.00141,0.108,0.6,127.975,215227,4
+7Ku8cFTqbFMKSWGuf1evPQ,Juice,Stiv Kuling,Blæst,55,0.76,0.658,0,-5.966,1,0.0773,0.099,3.89e-06,0.0928,0.88,116.017,160417,4
+4PBcK3VtxWNiUXXbFnNnQ5,Ramenez la coupe à la maison,Allez Les Bleus!,Vegedream,44,0.808,0.66,0,-6.237,0,0.0395,0.0358,0.0,0.138,0.804,107.994,235556,4
+31JwK4iHCf75rnQWoMPU5t,Talk Dirty (feat. 2 Chainz),Tattoos (Deluxe Edition),Jason Derulo,58,0.76,0.652,6,-7.321,1,0.232,0.0348,0.0,0.307,0.759,100.315,177685,4
+0dM3Mb8JRTKuNwjZ8ng953,Gi' Mig Et Smil,Du Ved Det (Bonus Version),Wafande,48,0.869,0.822,0,-3.869,1,0.0972,0.0199,0.0,0.123,0.866,105.987,176173,4
+0EmFeENh4mqxH9Lhro2Oib,Malibu,Ingen Drama,Skinz,44,0.689,0.581,0,-5.955,1,0.0789,0.0675,0.0,0.388,0.539,102.748,191144,4
+7z1L6Edc4sN0WtA8HXH9iJ,Gulddans,Gulddans,ICEKIID,48,0.614,0.547,3,-5.348,0,0.385,0.508,0.0,0.125,0.964,184.539,175062,3
+0NnmpMt8M9mthgrfuerLfD,Sol Over København (feat. KESI),BOIS FOREVER,Citybois,47,0.755,0.592,4,-6.705,0,0.0349,0.0147,0.0,0.111,0.446,100.022,185707,4
+5x6ggDM895CRGHxS3dwRHz,Solhverv,Solhverv,Lord Siva,51,0.81,0.674,2,-6.251,0,0.0446,0.00792,1.45e-05,0.0527,0.834,139.949,213125,4
+31wLRTQ5FRs5mVtj583xGY,Bounce,Bounce,KDZ,36,0.951,0.619,10,-6.411,0,0.172,0.0436,1.94e-06,0.134,0.524,112.035,140089,4
+1imiBnJzq2cvwImdn8OnZZ,Smid Tøjet / Frisk På Det Hele - HEDEGAARD REMIX,Smid Tøjet / Frisk På Det Hele - HEDEGAARD REMIX,Jimilian,40,0.875,0.565,8,-9.633,1,0.0633,0.0672,0.00653,0.088,0.442,100.024,191452,4
+23nmVlNKHgCyAIIWGp8hVk,Ik Lavet Penge,Greatest Hits 2011,KIDD,38,0.735,0.63,2,-4.591,1,0.0551,0.31,0.0,0.295,0.862,150.069,215653,4
+69oJmQ3NnWHQriYQ4L8dKa,Rica (feat. Kesi & Sivas),Rica (feat. Kesi & Sivas),Gilli,51,0.791,0.75,9,-4.491,0,0.143,0.35,0.0,0.294,0.822,95.984,212581,4
+7LSpHN7E9EKZo2YovzqOAV,Følelsen,Følelsen,KESI,54,0.774,0.713,5,-4.748,0,0.0786,0.202,0.0,0.0567,0.872,92.959,198930,4
+6vgdJpXbPneI2EwSPifIM4,Dobbeltslag,Fuldmåne 2.0,Joey Moe,48,0.664,0.719,4,-6.447,0,0.0314,0.00865,0.0,0.139,0.545,128.008,200080,4
+7IswsfMQkmjm1FQ2iT3sbw,Glad,Glad,Bro,34,0.593,0.712,8,-6.078,0,0.264,0.0779,0.0,0.269,0.48,199.918,207575,4
+64NE79ro3Tys4qbek51rBP,Bare Dans,Bare Dans,KIDD,44,0.937,0.576,6,-6.034,0,0.186,0.0319,0.0,0.116,0.873,115.121,176111,4
+7ANC6AmXIoA7lqr6ebDWLz,Bedre End Rihanna,Bedre End Rihanna,Citybois,39,0.719,0.602,0,-6.162,1,0.0708,0.102,0.0,0.0988,0.684,99.903,184200,4
+5Vpa6tMEkefh0VQIHwS1f8,Sommer,Page Four,Page Four,44,0.682,0.788,1,-5.486,1,0.0286,0.00475,0.0,0.15,0.661,110.024,246160,4
+4xJgu4DNPpGMZ2Wc9BnDXa,Bagateller,Bagateller,ICEKIID,50,0.892,0.688,7,-5.907,0,0.0865,0.0493,0.000184,0.0806,0.711,121.056,185250,4
+718FFE3JT8bFt0ePGZ3naw,Helt Fair (feat. ICEKIID),Helt Fair (feat. ICEKIID),Citybois,37,0.852,0.573,8,-6.849,0,0.141,0.008,0.0,0.116,0.801,96.015,170532,4
+7xw3t1NHwgfKYsATaTEIMe,Balotelli,Balotelli,NAVID,31,0.772,0.719,11,-4.654,0,0.0533,0.0682,0.0,0.279,0.653,145.852,170149,4
+0amSYfkxz9Csn9DiTGGNcP,Domino,Domino,Benny Jamz,37,0.637,0.715,4,-4.778,0,0.0521,0.377,0.0,0.37,0.681,65.355,189957,5
+2u6I8SJ3t0oLHH8gpwh3tX,KOLO,INGEN ROSER UDEN TORNE,ICEKIID,41,0.864,0.821,6,-6.415,0,0.133,0.13,0.0,0.199,0.938,123.058,174587,4
+5I4V6rPavVbeOLHfyZNVPm,Catalonia,Forlænget Weekend,Eebz,36,0.774,0.75,4,-4.716,0,0.0543,0.139,0.0,0.11,0.535,105.036,188801,4
+7JqI6lxV0zDu8wIUYegsGE,ALIVE ALIVE ALIVE,Når sjælen kaster op,Tobias Rahim,47,0.638,0.847,5,-6.042,0,0.0518,0.126,4.32e-05,0.0879,0.505,150.086,260388,4
+2oENJa1T33GJ0w8dC167G4,Fire Burning,Tomorrow,Sean Kingston,73,0.839,0.804,1,-2.513,1,0.0329,0.0192,0.0,0.331,0.888,122.973,239987,4
+6P47b7R8wNSy1siCrJpIGN,Søvnløs - Hedegaard Remix Edit,Søvnløs (Hedegaard Remix),KESI,34,0.651,0.847,5,-6.282,1,0.252,0.11,0.000927,0.132,0.394,197.848,202424,4
+5MZNdMiDsU1UfM1Q5xmJjT,Supernova,Supernova,Babou,41,0.707,0.809,1,-4.78,0,0.0466,0.152,9.93e-06,0.0725,0.731,130.06,229000,4
+7pYfyrMNPn3wtoCyqcTVoI,"Moves Like Jagger - Studio Recording From ""The Voice"" Performance",Hands All Over (Revised International Standard version),Maroon 5,82,0.722,0.761,11,-4.46,0,0.0475,0.0119,0.0,0.315,0.624,128.046,201493,4
+2s5YN9O8Qv25BjQobPHWVZ,Like A G6,Dirty Bass (Deluxe),Far East Movement,0,0.431,0.862,7,-7.005,0,0.428,0.00618,0.0,0.322,0.696,124.93,219307,4
+7ks6AZmFcm3Y6PGGxGSmlB,Where Them Girls At (feat. Nicki Minaj & Flo Rida),Nothing but the Beat (Ultimate Edition),David Guetta,74,0.666,0.876,3,-3.078,1,0.0414,0.055,0.0,0.259,0.552,129.884,194840,4
+0nrRP2bk19rLc0orkWPQk2,Wake Me Up,True,Avicii,86,0.532,0.783,2,-5.697,1,0.0523,0.0038,0.0012,0.161,0.643,124.08,247427,4
+0TDLuuLlV54CkRRUOahJb4,Titanium (feat. Sia),Nothing but the Beat (Ultimate Edition),David Guetta,82,0.604,0.787,0,-3.674,0,0.103,0.0679,0.15,0.127,0.301,126.062,245040,4
+1CdqVF1ywD0ZO1zXtB9yWa,Break Your Heart,Rokstarr,Taio Cruz,70,0.666,0.899,8,-4.676,1,0.0281,0.00156,0.0,0.0678,0.616,122.049,186267,4
+1NpW5kyvO4XrNJ3rnfcNy3,Wild Ones (feat. Sia),Wild Ones,Flo Rida,81,0.608,0.86,5,-5.324,0,0.0554,0.0991,0.0,0.262,0.437,127.075,232947,4
+4DMPn1rEujpIJIvjy9HKV8,Scream & Shout,#willpower (Deluxe),will.i.am,0,0.77,0.684,0,-6.854,1,0.0768,0.0219,6.16e-05,0.128,0.479,130.03,283400,4
+66TRwr5uJwPt15mfFkzhbi,Crank That (Soulja Boy),souljaboytellem.com,Soulja Boy,76,0.733,0.74,0,-2.18,1,0.0905,0.513,0.0,0.0468,0.799,140.2,221933,4
+0WVpOA5QIf4HbRDyZVRsMG,Every time we touch,Everytime We Touch (Premium Edition),Cascada,0,0.633,0.976,8,-5.362,1,0.0519,0.00281,1.29e-05,0.382,0.493,142.027,197124,4
+5BrTUo0xP1wKXLJWUaGFtk,Loyal (feat. Lil Wayne & Tyga),X (Expanded Edition),Chris Brown,75,0.841,0.522,10,-5.963,0,0.049,0.0168,1.37e-06,0.188,0.616,99.059,264947,4
+5tXyNhNcsnn7HbcABntOSf,DJ Got Us Fallin' In Love,DJ Got Us Fallin' In Love,USHER,0,0.666,0.878,7,-2.85,0,0.0973,0.03,0.0,0.0828,0.669,119.932,222160,4
+190jyVPHYjAqEaOGmMzdyk,Beauty And A Beat,Believe (Deluxe Edition),Justin Bieber,77,0.602,0.843,0,-4.831,1,0.0593,0.000688,5.27e-05,0.0682,0.526,128.003,227987,4
+6bNB5gxFX6Q87DbQWb8OWZ,Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground),Listen Up! The Official 2010 FIFA World Cup Album,Shakira,67,0.758,0.871,2,-6.408,1,0.147,0.0062,0.0,0.0663,0.753,126.994,202627,4
+0Oe49j06Bjrxs8PltuVeaW,On The Floor - Radio Edit,On The Floor,Jennifer Lopez,75,0.758,0.686,11,-6.346,1,0.0792,0.0848,0.00133,0.142,0.444,130.008,230907,4
+2OBKvpCTPo0q4qQELJ1n7h,Sexy And I Know It,Sorry For Party Rocking,LMFAO,56,0.708,0.861,7,-4.225,1,0.316,0.1,0.0,0.191,0.795,130.043,199480,4
+0XPJVRGosRymX67IvHSYX9,NO LOVE,NO LOVE,D1MA,52,0.753,0.585,1,-8.403,0,0.363,0.369,0.000161,0.129,0.436,119.726,141289,4
+1k7bDVNh318BxL8gFeLd8N,Er Det For Sent? (feat. TopGunn) - Remix,Er Det For Sent? (feat. TopGunn) - Remix,Josef,48,0.785,0.688,8,-3.195,0,0.103,0.0143,0.0,0.0451,0.908,96.967,149900,4
+5pHKhwqzcjNZ6orNRKXZY6,BAGLÆNS,BAGLÆNS,D1MA,47,0.77,0.587,9,-7.254,0,0.034,0.043,1.51e-05,0.0799,0.464,127.994,210000,4
+1635wWSdp29PO3GxYhy991,Bel Mercy,Bel Mercy,Jengi,70,0.949,0.736,1,-6.17,1,0.0992,0.401,0.736,0.137,0.708,127.016,169606,4
+5TmFTHZp7HjBXjjsFvCY6h,Destination Calabria - Radio Edit,Destination Calabria,Alex Gaudino,77,0.627,0.954,2,-4.804,1,0.0425,0.0015,0.000814,0.292,0.312,128.016,223112,4
+4uUG5RXrOk84mYEfFvj3cK,I'm Good (Blue),I'm Good (Blue),David Guetta,89,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,175238,4
+7kcBLq8OZfn6cKE3Zgxle2,Cinderella,Cinderella,ICEKIID,30,0.596,0.655,1,-7.176,1,0.39,0.035,0.0,0.153,0.741,128.007,192578,5
+0twnZu2JhBywPQBOX92gSl,For Altid,For Altid,TopGunn,55,0.575,0.561,8,-8.065,0,0.253,0.103,0.0,0.102,0.901,101.423,143451,3
+3MIOwa113ZHD5qNbgF7JRZ,Coco Chanel,Coco Chanel,ICEKIID,39,0.819,0.704,1,-5.164,0,0.149,0.0774,0.0,0.0502,0.917,97.981,226933,4
+5Zzhe6zsBBnqCEXmJtiDXM,SPORT,SAS,TopGunn,44,0.899,0.545,7,-6.853,1,0.121,0.019,7.77e-05,0.114,0.452,85.006,162065,4
+6h5PAsRni4IRlxWr6uDPTP,More Than You Know,More Than You Know,Axwell /\ Ingrosso,81,0.646,0.741,5,-4.973,0,0.034,0.0275,0.0,0.312,0.571,123.077,203000,4
+0Ke3Z8dJJItYYe9NizCZdW,Nasty,Nasty,KAMIL,48,0.762,0.635,6,-9.476,1,0.27,0.303,0.0,0.171,0.128,103.044,184078,4
+70uHBLlKXLzstSoz46uMA0,Boom Boom Boom,Boom Boom Boom,Emil Stabil,53,0.881,0.727,3,-4.348,0,0.0813,0.302,6.46e-05,0.06,0.881,128.117,123149,4
+6ZvA8Difc7oFBxfZXJ6JuT,BDK (feat. Gilli),888,KESI,46,0.839,0.699,7,-6.532,0,0.439,0.458,1.02e-05,0.0789,0.669,130.015,173879,4
+2NNbwxHDm7ShhzrD1T544H,Vågn Op,888,KESI,43,0.757,0.45,4,-6.814,0,0.0464,0.413,0.0,0.181,0.225,137.976,183055,4
+7f3FPKXzk0fG84G3aY5jM2,Hajde,Mere End Musik,Benny Jamz,44,0.533,0.596,0,-5.773,0,0.109,0.0503,0.0,0.119,0.577,101.091,183808,4
+6prbvSCVLFfsiiZdGRln5f,Ring På Dig,Ring På Dig,Citybois,43,0.768,0.743,7,-5.088,1,0.0742,0.0298,1.1e-06,0.159,0.652,102.031,198839,4
+6s7taLMkFDBlqQ1YWHqloy,Kongens Have,Ingen Andre,TopGunn,52,0.688,0.723,0,-6.657,0,0.0351,0.0102,0.0,0.236,0.355,104.051,214155,4
+1lahfyqBPVvBIxf3XgmQmZ,Sydpå,Sydpå,Bro,47,0.807,0.716,10,-5.27,1,0.154,0.184,0.0,0.097,0.667,99.938,186627,4
+4bU7syO13ky3ZGJRSXg64S,Follow Me,Follow Me,Niklas,39,0.808,0.809,11,-6.242,1,0.0375,0.164,2.26e-06,0.136,0.628,119.988,194652,4
+5nFDTvp41gO5ctf7LnFEI1,I min zone,Ingen Drama,Skinz,37,0.715,0.622,0,-6.243,1,0.143,0.2,0.0,0.154,0.523,78.017,177239,4
+3lYK32vhJejUC303tqJV2D,Det Ik Sket,Straight Fire,Vild Smith,43,0.834,0.703,9,-7.392,0,0.082,0.0253,0.0,0.34,0.396,93.054,192879,4
+4NOZ35Dhucr6UlVyLOtktd,Dangerous,Not 4 Sale,Kardinal Offishall,75,0.949,0.789,8,-5.956,1,0.0755,0.00437,0.0,0.0816,0.808,117.002,246053,4
+3cHyrEgdyYRjgJKSOiOtcS,Timber,Global Warming: Meltdown (Deluxe Version),Pitbull,84,0.581,0.963,11,-4.087,1,0.0981,0.0295,0.0,0.139,0.788,129.992,204160,4
+6q0sZFMvdZiInjkGZglRlu,MOONLIGHT,MOONLIGHT,D1MA,46,0.714,0.492,8,-8.252,0,0.209,0.566,0.0,0.325,0.557,118.987,197043,4
+6Ntj4LvgVgjlprxD2JyhZS,Gangsta Boo (with Lil Tjay),Like..?,Ice Spice,0,0.873,0.578,1,-7.397,1,0.272,0.139,0.0,0.0953,0.765,147.074,159371,4
+6GKyjW8BA1BUMX1BwUyabt,Stimulate,Stimulate,Ship Wrek,47,0.849,0.763,11,-4.692,0,0.0518,0.00144,0.892,0.123,0.749,125.049,182880,4
+79JoAfAjEcCtFYyeJCGwkK,Op A,Op A,Ude Af Kontrol,49,0.768,0.94,7,-4.436,1,0.331,0.139,0.0,0.104,0.404,133.988,146866,4
+6LcauUZjF1eXQrgqMUecHX,Ayy Macarena,Ayy Macarena,Tyga,67,0.816,0.629,2,-5.568,1,0.226,0.133,0.0,0.0692,0.714,96.493,131607,4
+4Li2WHPkuyCdtmokzW2007,Ni**as In Paris,Watch The Throne (Deluxe),JAY-Z,19,0.789,0.858,1,-5.542,1,0.311,0.129,0.0,0.349,0.776,140.022,219333,4
+3KwmKQfn3BXTFVCy0nvPgE,Hey Ma (with J Balvin & Pitbull feat. Camila Cabello),The Fate of the Furious: The Album,J Balvin,20,0.713,0.952,7,-2.959,1,0.108,0.0203,2.51e-06,0.117,0.571,105.981,195040,4
+6dLLEE96JRnX1ngkL77yiA,"Boom (feat. MOTi, Ty Dolla $ign, Wizkid & Kranium)",Peace Is the Mission (Extended Edition),Major Lazer,27,0.704,0.784,7,-4.463,0,0.142,0.00283,0.0,0.419,0.656,100.083,186448,4
+3s6ltUrI93LBKU8taezsLn,Magic in the Air (feat. Ahmed Chawki),Africainement vôtre,Magic System,69,0.621,0.907,2,-3.923,1,0.0474,0.091,0.0,0.067,0.884,128.056,233693,4
+2bLqfJjuC5syrsgDsZfGmn,The Way I Are,Shock Value,Timbaland,84,0.729,0.807,6,-6.492,1,0.0936,0.181,0.75,0.319,0.765,114.742,179120,4
+3kA6UzzmujjGJq2kjL8ZNn,Tequila,Tequila,Ude Af Kontrol,38,0.847,0.86,8,-3.843,0,0.111,0.0166,0.0,0.0307,0.893,127.988,119172,4
+49ou9vBZLTCi4TYoYzR3F9,Calabria 2007 (feat. Natasja) - Radio Edit,Calabria 2007 (feat. Natasja),Enur,63,0.888,0.556,7,-8.38,1,0.186,0.00758,0.0584,0.0553,0.45,126.008,233480,4
+6dAhNQnGNgUZLr3vf0EX7y,Skylder Dig Ik´ Noget,L.I.G.A,LIGA,43,0.714,0.775,6,-4.755,1,0.0389,0.012,0.0,0.29,0.695,117.039,209120,4
+4kvTPJZYo4qkxtEfTURoxY,RTW,RTW,Lamin,48,0.672,0.683,1,-6.327,0,0.454,0.266,0.0,0.375,0.543,87.102,145925,4
+3LtpKP5abr2qqjunvjlX5i,Doja,Doja,Central Cee,80,0.911,0.573,6,-7.43,1,0.288,0.38,0.0,0.403,0.972,140.04,97393,4
+6NdkIejC39Pcwg9Buw5f2B,Black and Yellow,Black and Yellow,Wiz Khalifa,44,0.684,0.834,2,-4.524,0,0.0675,0.0646,0.0,0.271,0.538,164.02,217667,4
+6gBTt6wxTW9Sj4Wh2Zdw3V,Cardio,72 Timer,KESI,43,0.839,0.72,0,-5.56,0,0.126,0.191,1.29e-05,0.274,0.792,104.009,152507,4
+12upFOLFbpQ5nTENWm2Glj,AMG,AMG,MellemFingaMuzik,43,0.933,0.639,10,-4.967,0,0.163,0.005,4.48e-06,0.0603,0.336,98.024,153916,4
+5M9phYS7KgM3ZXKTSlgLv0,LA DANZA,EURO CONNECTION,Branco,47,0.78,0.665,11,-6.017,0,0.162,0.228,1.25e-05,0.0967,0.592,127.201,185711,4
+4PE9UPvP90NmXP25rJXiLN,Veninder,CD1,Niklas,44,0.782,0.685,2,-6.224,1,0.0416,0.223,0.0,0.0885,0.557,124.973,206520,4
+2YDOjCfkGciEXxSutB6LJR,World Hold On - FISHER Rework,World Hold On (FISHER Rework),Bob Sinclar,42,0.771,0.883,1,-5.243,0,0.0584,0.00596,0.00607,0.135,0.895,127.008,178305,4
+49vQclrdXkZXMJnD0VN3qZ,Culo (feat. Branco),Kiko,Gilli,47,0.9,0.66,8,-3.782,1,0.179,0.0238,1.15e-06,0.109,0.584,92.013,145872,4
+3G3mTTR1EDmce8zZIdapM6,Ekstra,Ekstra,KESI,48,0.765,0.668,5,-5.667,0,0.111,0.088,0.0,0.0967,0.714,143.987,190000,4
+7a3USKN1W3QrzN4HQwcMnz,BELLA,SAS,TopGunn,40,0.759,0.344,0,-9.46,0,0.222,0.291,0.0,0.116,0.475,158.875,148598,4
+151GbWJcajt35sN4T309vF,Nik & Jay (feat. Benjamin Hav),1991,TopGunn,52,0.879,0.489,9,-8.271,0,0.217,0.286,0.0,0.11,0.423,94.939,174080,4
+14VTLEOzviOKVGAkA9uT2g,Ligesom Mig,Ligesom Mig,KESI,41,0.82,0.739,7,-4.871,0,0.0424,0.0638,0.0,0.249,0.682,97.964,180817,4
+63ODxpk6cCmFw8VvoeRD0O,Er Her (Artigeardit X KESI),Er Her (Artigeardit X KESI),Artigeardit,43,0.589,0.706,5,-5.033,0,0.312,0.151,0.0,0.0692,0.711,125.546,157102,5
+0i0Hc3bNrhoLjBNFH7U92N,Ingen Over,Ingen Over,ICEKIID,44,0.915,0.51,7,-6.69,1,0.116,0.28,0.0,0.28,0.913,106.036,168179,4
+5hRBAiCf0A4yQc2Mh3uOYY,No Love,No Love,Benny Jamz,39,0.834,0.638,1,-4.788,1,0.157,0.165,0.0,0.121,0.367,111.857,210977,4
+610KxSt2HNjczZ2ic2Yr9q,Højre Og Venstre (feat. Ericka Jane),Ingen Drama,Skinz,33,0.521,0.478,10,-7.384,0,0.149,0.219,0.0,0.23,0.365,82.572,173912,4
+2FJAfFFY12IVA82yuNHygp,Ubesvaret Opkald,Ingen Drama,Skinz,25,0.839,0.548,10,-5.59,1,0.182,0.0061,0.0,0.0672,0.582,155.995,189545,4
+6Xc6N2ptIEj8z77KDLlj9g,Tjep (feat. Kesi),Tjep (feat. Kesi),Benny Jamz,36,0.839,0.613,6,-5.788,0,0.143,0.219,0.0,0.0837,0.806,99.991,148482,4
+3NxlOtyM9V95ZhqRZGZdw7,Har Det Fucking Godt,Har Det Fucking Godt,Jimilian,43,0.794,0.658,5,-4.3,0,0.0979,0.29,0.0,0.102,0.783,140.097,158143,4
+7ksojAMJen27uOIQ7tmnpx,Se Os,BOIS FOREVER,Citybois,35,0.801,0.589,8,-5.295,0,0.118,0.116,0.0,0.12,0.612,101.09,163400,4
+1THxYDFV4EK59BzgUs5Yg0,Kærlighed Gør Blind,BOIS FOREVER,Citybois,38,0.679,0.697,10,-5.262,0,0.316,0.26,0.0,0.0804,0.505,105.854,188013,4
+5kYfAO0bLWvS3YkozV1TA9,Guantanamo (ICEKIID x Outlandish),Guantanamo (ICEKIID x Outlandish),ICEKIID,48,0.594,0.864,9,-5.732,0,0.149,0.095,0.0,0.149,0.804,195.79,148897,4
+7xN3b5ZysgGpkvoHdG1HXA,Æstetisk,Kronisk Skeptisk,Lamin,54,0.932,0.449,5,-8.573,0,0.426,0.126,0.0,0.355,0.746,116.1,151166,4
+1y9Z6Wet8yF0aTQ50v5efu,DRIPPY,INGEN ROSER UDEN TORNE,ICEKIID,44,0.803,0.693,3,-6.522,0,0.098,0.162,0.0,0.327,0.892,109.962,194560,4
+3susegzLFf54O38e3RiRqm,Europa Life,Europa Life,Benny Jamz,46,0.655,0.612,7,-6.577,1,0.249,0.0552,0.0,0.471,0.62,102.021,141796,4
+7d367EnHat6QQ5DPRxANrt,LIFESTYLE,INGEN ROSER UDEN TORNE,ICEKIID,35,0.886,0.748,5,-6.175,0,0.229,0.103,0.0,0.298,0.857,120.028,132308,4
+5wtZL3jOm24JwIFZrzLbmc,ALFABET (ABC),ALFABET (ABC),Skinz,45,0.804,0.695,1,-5.539,1,0.0768,0.0239,0.0,0.173,0.82,104.977,158439,4
+0kzGjSRHGVcaWxagzQwAyD,Bando,Bando,ANNA,51,0.97,0.739,10,-4.917,0,0.295,0.155,0.0,0.111,0.414,120.061,168000,4
+4kLLWz7srcuLKA7Et40PQR,I Gotta Feeling,THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version],Black Eyed Peas,82,0.744,0.766,0,-6.375,1,0.0265,0.0873,0.0,0.509,0.61,127.966,289133,4
+7qiZfU4dY1lWllzX7mPBI3,Shape of You,÷ (Deluxe),Ed Sheeran,86,0.825,0.652,1,-3.183,0,0.0802,0.581,0.0,0.0931,0.931,95.977,233713,4
+5WQ1hIc5d2EVbRQ8qsj8Uh,Hey Ya! - Radio Mix / Club Mix,Speakerboxxx/The Love Below,Outkast,0,0.719,0.967,0,-2.435,1,0.0552,0.0588,0.000249,0.206,0.964,79.505,235213,4
+0I3q5fE6wg7LIfHGngUTnV,Ms. Jackson,Stankonia,Outkast,83,0.843,0.806,4,-5.946,0,0.269,0.143,0.0,0.0771,0.613,94.948,270507,4
+3ZFTkvIE7kyPt6Nu3PEa7V,Hips Don't Lie (feat. Wyclef Jean),"Oral Fixation, Vol. 2 (Expanded Edition)",Shakira,86,0.778,0.824,10,-5.892,0,0.0707,0.284,0.0,0.405,0.758,100.024,218093,4
+2igwFfvr1OAGX9SKDCPBwO,Empire State Of Mind,The Blueprint 3,JAY-Z,83,0.491,0.956,11,-1.538,1,0.392,0.0295,0.0,0.46,0.811,173.585,276920,4
+6FE2iI43OZnszFLuLtvvmg,Classic,MKTO,MKTO,83,0.72,0.791,1,-4.689,1,0.124,0.0384,0.0,0.157,0.756,102.071,175427,4
+22mek4IiqubGD9ctzxc69s,How Deep Is Your Love,How Deep Is Your Love,Calvin Harris,83,0.738,0.868,11,-4.373,0,0.0731,0.0392,0.00169,0.388,0.336,122.003,212640,4
+6YUTL4dYpB9xZO5qExPf05,Summer,Motion,Calvin Harris,85,0.596,0.856,4,-3.556,0,0.0346,0.0211,0.0178,0.141,0.743,127.949,222533,4
+6I9VzXrHxO9rA9A5euc8Ak,Toxic,In The Zone,Britney Spears,85,0.774,0.838,5,-3.914,0,0.114,0.0249,0.025,0.242,0.924,143.04,198800,4
+6epn3r7S14KUqlReYr77hA,Baby,My World 2.0,Justin Bieber,82,0.728,0.859,5,-5.237,0,0.137,0.0401,0.0,0.111,0.535,65.043,214240,4
+2kQuhkFX7uSVepCD3h29g5,Smack That,Konvicted,Akon,85,0.939,0.741,5,-5.171,0,0.0471,0.323,0.0,0.107,0.925,118.978,212360,4
+5NQbUaeTEOGdD6hHcre0dZ,679 (feat. Remy Boyz),679 (feat. Remy Boyz),Fetty Wap,77,0.618,0.717,7,-5.738,1,0.318,0.00256,0.0,0.625,0.603,190.05,196693,4
+7iMHrq78z4ue6li3p8QKRr,Vi To,Velkommen Til Medina,Medina,56,0.668,0.702,0,-5.154,1,0.0321,0.0759,0.0,0.0902,0.327,124.976,239480,4
+1rhAnDeiinLzTE21CpMi9U,Op A Væggen,Op A Væggen,Tobias Rahim,48,0.783,0.836,5,-4.03,0,0.0892,0.146,0.000273,0.158,0.455,104.992,196587,4
+7tleRLLNqW5yH7846TguuZ,Ferrari - D1MA Remix,Ferrari (D1MA Remix),James Hype,50,0.873,0.73,6,-5.297,0,0.0823,0.0804,0.0,0.151,0.648,124.98,172000,4
+3PMDdBSJ45AmkBnLWat5pC,Fredag (feat. Bar Z),Forlænget Weekend,Eebz,35,0.719,0.726,2,-4.419,1,0.0906,0.0739,0.0,0.168,0.37,126.33,164731,5
+5m5HB9kR1i3f1gaLewgnIu,Så Er Der Bong (Middelalderbongsangen),Så Er Der Bong (Middelalderbongsangen),Så Er Der Bong,24,0.87,0.713,9,-12.39,0,0.19,0.441,0.0183,0.128,0.203,119.958,103310,4
+60G0YTBb4gtAgb0ODAPNAn,What A Life,What A Life,Scarlet Pleasure,48,0.716,0.572,9,-5.095,0,0.0391,0.799,1.89e-06,0.0793,0.64,113.779,185942,4
+1BltsyC5W3SAABdxyrDXwi,Latch,Settle,Disclosure,0,0.503,0.727,1,-5.456,1,0.167,0.0159,9.45e-05,0.0895,0.521,121.985,255632,4
+5aeUFW5bJ5ohEPvqlKRFoY,Denver In The Sky,Denver In The Sky,Oden & Fatzo,32,0.837,0.963,5,-5.929,0,0.23,0.0177,0.284,0.663,0.547,129.008,391657,4
+64vBCC1lpjEnF10CkDiDhv,Every Morning,Late Checkout,Chris Lorenzo,55,0.795,0.981,6,-4.665,1,0.0517,0.00119,0.91,0.0519,0.666,128.0,196406,4
+0QLH3xeYZSRXy9YovfVEOI,Pengedans,Pengedans,KESI,42,0.742,0.542,5,-7.084,0,0.151,0.156,0.0,0.103,0.427,97.971,177561,4
+2TltkM4htwqoVWMtRmLHFA,Hel Perfecto,Hel Perfecto,GMG,34,0.731,0.636,4,-5.182,0,0.248,0.0494,0.0,0.085,0.653,89.878,166000,4
+71JW11U2IpJQBRicrFUzMZ,God Pige (feat. TopGunn),BOYBAND,Danser Med Piger,53,0.729,0.805,10,-7.087,1,0.0682,0.174,0.0,0.318,0.776,101.056,167228,4
+5zyEUkL2SNiJQ4iQVnhWkk,Kinky Fætter,Ingen Slukker The Stars,Suspekt,51,0.858,0.731,10,-4.39,0,0.248,0.0951,0.000213,0.166,0.585,121.488,132827,4
+7q6VpDRLJmkeAjxbgOjOek,Super Mario,Super Mario,NODE,38,0.898,0.744,5,-5.635,1,0.0936,0.173,0.0,0.367,0.759,130.023,186425,4
+49FYlytm3dAAraYgpoJZux,Umbrella,Good Girl Gone Bad: Reloaded,Rihanna,83,0.585,0.828,1,-4.603,1,0.124,0.00906,0.0,0.0426,0.584,174.034,275987,4
+6TDGzRZH53BojuIb2XPaYf,Klovne,Klovne,RH,47,0.861,0.545,3,-6.776,0,0.19,0.246,0.000131,0.15,0.629,106.067,133742,4
+0iGckQFyv6svOfAbAY9aWJ,Hot N Cold,One Of The Boys,Katy Perry,77,0.706,0.842,7,-3.956,1,0.0417,7.73e-05,0.0,0.0688,0.861,132.032,220227,4
+3UOuBNEin5peSRqdzvlnWM,Still D.R.E.,2001,Dr. Dre,1,0.814,0.781,11,-3.33,1,0.233,0.17,0.000518,0.052,0.536,93.445,270667,4
+0O45fw2L5vsWpdsOdXwNAR,SexyBack (feat. Timbaland),FutureSex/LoveSounds,Justin Timberlake,80,0.967,0.583,7,-5.562,0,0.0789,0.0584,0.0,0.0519,0.964,117.0,242733,4
+4y1LsJpmMti1PfRQV9AWWe,Girls Just Want to Have Fun,She's So Unusual,Cyndi Lauper,84,0.71,0.799,6,-4.897,1,0.0328,0.22,0.000602,0.349,0.725,120.372,238267,4
+7ycWLEP1GsNjVvcjawXz3z,Praise The Lord (Da Shine) (feat. Skepta),TESTING,A$AP Rocky,84,0.854,0.569,5,-8.151,0,0.106,0.0609,0.0816,0.1,0.294,80.015,205040,4
+6ku3i5WNrsY3qhOq6ua9TL,Vem Dancar Kuduro,Emigrante Del Mundo (Remastered),Lucenzo,69,0.327,0.941,1,-3.294,1,0.353,0.0231,0.0,0.0636,0.707,129.738,199236,4
+5Y841Z8kEooCe0qWHE8sUF,Tag Fat,Tag Fat,Toko,47,0.753,0.593,6,-6.079,0,0.0432,0.16,0.0,0.0871,0.643,100.043,129600,4
+719L8GKB4h8NkVANzZoUaq,Del Af Mig,2.0 EP,Artigeardit,46,0.765,0.704,0,-8.235,1,0.256,0.431,6.21e-06,0.0644,0.547,124.996,157440,4
+1PxGMn63iT7sc4eS52c9UP,WHIP WHOP,WHIP WHOP,I$WAAL,37,0.748,0.55,1,-8.376,1,0.311,0.0343,0.0,0.193,0.455,99.986,211840,4
+5Q3ONCf28WRvJWljz1Iqp2,"Loca People (What the F**k!"") - Radio Edit","Loca People (What the F**k!"") [Radio Edit]",Sak Noel,39,0.914,0.805,11,-3.132,0,0.0558,0.00065,0.0075,0.053,0.767,128.004,216960,4
+2iJuuzV8P9Yz0VSurttIV5,Scream & Shout,#willpower,will.i.am,79,0.772,0.685,5,-6.849,1,0.0696,0.019,8.96e-05,0.131,0.501,130.039,283400,4
+22mek4IiqubGD9ctzxc69s,How Deep Is Your Love,How Deep Is Your Love,Calvin Harris,83,0.738,0.868,11,-4.373,0,0.0731,0.0392,0.00169,0.388,0.336,122.003,212640,4
+4Kwem7PKNogrUOYlAHIbFY,Jet Li (feat. Benny Jamz),Dit Liv Dit Valg,Stepz,39,0.944,0.475,8,-6.863,1,0.151,0.0772,0.00289,0.159,0.316,107.016,144198,4
+3AeicLnm55RqcXGBKYQolM,King,Communion (Deluxe),Olly Alexander (Years & Years),73,0.56,0.857,4,-4.145,0,0.0384,0.0594,0.0,0.381,0.432,119.975,215360,4
+7a2ZJ7zftM3SkQ0sDvI4Aa,Palermo (feat. KESI),Ny Sejr,Benny Jamz,51,0.774,0.779,5,-5.248,0,0.0633,0.0806,5.84e-06,0.138,0.791,141.024,163483,4
+2V4bv1fNWfTcyRJKmej6Sj,Cooler Than Me - Single Mix,31 Minutes to Takeoff,Mike Posner,79,0.768,0.82,7,-4.63,0,0.0474,0.179,0.0,0.689,0.625,129.965,213293,4
+4by3u0nqYuaG7pNURaChpM,Billige Bajer,Billige Bajer,De Danske Hyrder,46,0.749,0.528,1,-5.174,1,0.0462,0.292,0.0,0.166,0.707,85.021,228719,4
+1LzZuD8TsgFC8kG5DoocWb,Young Habibi (feat. Lamin),Ny Sejr,Benny Jamz,45,0.936,0.721,8,-5.365,0,0.286,0.414,0.0,0.247,0.856,124.994,142148,4
+2Foc5Q5nqNiosCNqttzHof,Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers],Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers],Daft Punk,80,0.794,0.811,6,-8.966,0,0.038,0.0426,1.07e-06,0.101,0.862,116.047,248413,4
+2lnzGkdtDj5mtlcOW2yRtG,"Whenever, Wherever",Laundry Service,Shakira,79,0.794,0.832,1,-4.862,0,0.0407,0.237,1.14e-05,0.203,0.871,107.657,196160,4
+59OmZbf6wAiE74szysFS2z,"Bedre end Rihanna Pt. 2 (feat. Emil Stabil, Young Bong & Lil Producer) - Lil Label Remix","Bedre end Rihanna Pt. 2 (feat. Emil Stabil, Young Bong & Lil Producer) [Lil Label Remix]",Citybois,26,0.774,0.693,9,-7.262,0,0.042,0.0239,2.95e-05,0.0822,0.582,100.002,177600,4
+3AE6oAwInWyvyreWAQ38vA,Kamehameha,Kamehameha,ICEKIID,32,0.9,0.446,0,-7.064,0,0.0757,0.0118,1.36e-06,0.0425,0.641,123.931,159090,4
+5qGIfWDRdyO67LCTqA2sEn,Heads Will Roll - A-Trak Remix Radio Edit,Good Morning Music: Wake Up Workout,Yeah Yeah Yeahs,66,0.68,0.805,8,-3.232,0,0.0801,0.0134,0.0558,0.237,0.865,132.005,203920,4
+0lSLXxc1x5PYnDIHgFtlHD,Rice & Peas,Ny Sejr,Benny Jamz,40,0.818,0.639,3,-5.629,0,0.343,0.15,0.0,0.0879,0.536,136.018,187851,4
+3riJzTjTvRcuvUfG7q7x25,Solen Op,Solen Op,Thor Farlov,50,0.852,0.79,8,-5.362,0,0.131,0.0143,0.0,0.157,0.968,122.964,144577,4
+38xttLsyfUwd284fbNjymm,Jumeirah,Jumeirah,ICEKIID,55,0.802,0.839,7,-4.742,1,0.0627,0.109,1.84e-05,0.0886,0.667,102.955,162487,4
+3JiVOU9tXbRi7aE8hBaz5v,Kopenhagen (feat. ICEKIID & Noah Carter),Kopenhagen (feat. ICEKIID & Noah Carter),Gilli,42,0.747,0.672,11,-4.381,0,0.349,0.206,0.0,0.125,0.766,99.719,147427,4
+5XMkENs3GfeRza8MfVAhjK,Finesse,24K Magic,Bruno Mars,72,0.741,0.798,5,-5.342,0,0.0718,0.00781,0.0,0.0232,0.939,104.953,191000,4
+0ZtqiH3Law79itqfAzHApC,Chocola,Chocola,Sleiman,52,0.839,0.595,11,-8.211,0,0.13,0.102,0.00154,0.13,0.765,130.048,132989,4
+2om86fvyOE6GGtubpMkZpC,Gi' mig Danmark tilbage,I Danmark er jeg født,Natasja,46,0.782,0.815,11,-2.185,0,0.31,0.0269,0.0,0.081,0.777,80.03,213293,4
+1nhr0REmVw0cwO4tkH6tFC,Sut,Bedre Sent End Aldrig,Ude Af Kontrol,40,0.89,0.832,0,-4.216,1,0.293,0.0567,0.0,0.108,0.715,131.082,93273,4
+4hI2NaagyNj7N5kS9M9vVh,Som Forleden,Som Forleden,Lamin,57,0.759,0.797,4,-6.405,0,0.169,0.141,0.0,0.373,0.798,100.062,161842,4
+4PJqYYdcQ1rubq1O0S8AVu,Puto Criminel (feat. ZUUZ),Puto Criminel (feat. ZUUZ),Magzim,47,0.859,0.726,2,-5.189,0,0.0435,0.0176,2.71e-06,0.111,0.806,130.026,113192,4
+7dPQspwTeZ8iVefdcUjD6w,Fræk,Fræk,Jimilian,37,0.822,0.75,6,-4.454,1,0.143,0.0689,0.0,0.0726,0.82,143.121,176445,4
+7zBD2Y6xoOMgm4ftGHFWfW,Hvor Har Du Lært Det,Hvor Har Du Lært Det,GMG,45,0.853,0.647,6,-7.386,1,0.139,0.00887,0.0,0.0994,0.782,128.016,138750,4
+2ilvTstOiWDmsGf75lz6Ka,Vai Amor,Vai Amor,Gilli,41,0.89,0.662,0,-5.462,1,0.199,0.0418,0.0258,0.0594,0.837,129.988,166353,4
+0J3LsonEK3aD0oozS9EBWJ,Drømmer Jeg,Johnny Deluxe,Johnny Deluxe,52,0.522,0.895,6,-3.673,0,0.0616,0.0242,0.0,0.049,0.536,149.931,199360,4
+2539KcLV6WkgGdNkkrpGMi,Natteravn,Rasmus Seebach,Rasmus Seebach,52,0.693,0.698,0,-6.948,1,0.0415,0.0281,1.07e-06,0.118,0.348,125.079,239347,4
+2SjUTdOLfWM0tHgJT7ags6,Fest (feat. Nik & Jay) - Original,Morten Breum Nightclub Session,MORTEN,29,0.889,0.754,6,-7.134,1,0.243,0.13,0.0285,0.33,0.674,124.013,240613,4
+4CTIEUKezwBHWLsJsZjDw1,Hey Ho (feat. Hedegaard),Hey Ho (feat. Hedegaard),Ude Af Kontrol,38,0.6,0.947,9,-4.34,0,0.177,0.0384,4.02e-06,0.273,0.384,133.935,195578,4
+4nfpbsiYbB0TVBOeJ7X7Z0,"What A Life - From the Motion Picture ""Another Round""","What A Life (From the Motion Picture ""Another Round"")",Scarlet Pleasure,52,0.779,0.463,4,-7.194,0,0.0516,0.193,3.17e-06,0.0779,0.433,113.81,169944,4
+29s2dhQ00vpr6eTI00Kc77,MCQUEEN,MCQUEEN,RH,50,0.954,0.643,8,-6.77,0,0.109,0.00317,0.00247,0.0963,0.915,122.006,137733,4
+5hmEqNUWSSkRLapvhGfevR,Boing!,De Første Fra - Nik & Jay,Nik & Jay,31,0.766,0.662,11,-6.268,0,0.0619,0.22,0.0,0.302,0.789,124.915,197987,4
+3P3grroSzC1WORTwUvltqN,Hey Shorty (Yeah Yeah Part II) (feat. U$O & Johnson) - Rasmus Hedegaard Remix,Hey Shorty (Yeah Yeah Part II) (feat. U$O & Johnson),Kato,0,0.572,0.6,11,-5.208,0,0.131,0.026,0.00242,0.0791,0.599,128.014,326013,4
+02uL30xVgxBfArZIS4fWPn,Blah Blah Blah - Bassjackers Remix,Blah Blah Blah (Remixes),Armin van Buuren,0,0.635,0.962,5,-2.699,0,0.053,0.0458,0.00581,0.68,0.311,132.017,196364,4
+3D5UFWr3DjAxVJIlZ7RlXh,Zum Zum - Balken Remix,Zum Zum - Balken Remix,Balken,35,0.765,0.844,1,-7.707,0,0.0406,0.477,0.0155,0.0809,0.637,125.007,144000,4
+4UEJF3r3RNedodw3jcyOgn,Chill,OMG It's LIT Vol. 4,Faustix,27,0.849,0.86,10,-7.072,0,0.129,0.0279,0.371,0.0785,0.597,150.012,168707,4
+6dNZPvJteUFQZwT8tQ10wX,L' Amour Toujours - Radio Version,00's Dance Top 65,Gigi D'Agostino,0,0.643,0.875,11,-5.048,0,0.0306,0.0848,0.014,0.317,0.77,139.038,242133,4
+3850dYVgOFIXJh5U4BFEWH,Hung Up,Confessions on a Dance Floor,Madonna,77,0.649,0.647,9,-7.695,0,0.0452,0.0039,0.161,0.0686,0.405,125.02,337733,4
+2ZCTP54O2dMSbVrdsg60to,Barbie Girl,Greatest Hits,Aqua,0,0.764,0.948,1,-4.355,0,0.0402,0.00929,0.0773,0.416,0.911,129.967,195040,4
+6SEizXg6WimNyK8NdI9biV,Time of Our Lives,Globalization,Pitbull,54,0.729,0.801,5,-5.698,0,0.0529,0.0895,0.0,0.766,0.764,123.995,229347,4
+7fofKLfNNwbe5Eoa1zZ9EY,I Nat Er Vi Ladt,Til Vi Ligger,Shaka Loveless,48,0.691,0.686,7,-5.578,1,0.0401,0.000179,0.0411,0.157,0.401,149.978,176930,4
+5YPQIVqREhclwBZUo8Yfrh,Chuck Norris - Radio Edit,Chuck Norris,Kongsted,41,0.735,0.948,7,-5.503,1,0.059,0.000339,0.853,0.289,0.794,128.038,175251,4
+4aJAkB74wtdHyOgEeRBQVY,Kun For Mig - Boye & Sigvardt Remix,Kun For Mig (Remixes 2.0),Medina,36,0.637,0.88,2,-6.457,0,0.102,0.0363,3.98e-06,0.326,0.176,125.857,196071,4
+6OKXk3jDfdltlPkMzzxtK8,Ensom,Velkommen Til Medina (Special Edition),Medina,18,0.705,0.764,7,-5.256,1,0.0318,0.00161,0.00671,0.137,0.397,125.038,251520,4
+2PCmsQfVfhxbv82EMj1K8C,Synd For Dig,For Altid,Medina,42,0.765,0.574,2,-5.224,0,0.035,0.239,9.53e-05,0.225,0.391,134.959,208347,4
+3XCXQ9ak4OIBXHtJqL9upB,Lyser I Mørke,For Altid,Medina,46,0.773,0.782,7,-3.9,0,0.0556,0.222,0.0,0.215,0.429,127.897,225813,3
+7HHfdB5U4OTiNllv1k7ONx,Veninder,Ingen Andre,TopGunn,47,0.825,0.539,8,-7.137,0,0.0378,0.0308,0.0,0.145,0.73,118.006,165440,4
+39MHS3rQ1rFiz7Dqxk0eCI,Dejlig,Dejlig,TopGunn,0,0.791,0.684,9,-5.94,1,0.0528,0.0135,0.0,0.073,0.667,139.089,169016,4
+0BLbfW0xAu6JNknarVnuBX,Man Kan Ikke Stole På En Pige Med En Lille Røv,Man Kan Ikke Stole På En Pige Med En Lille Røv,TopGunn,0,0.791,0.68,0,-8.502,1,0.183,0.0391,0.0,0.235,0.194,93.95,156146,4
+2IgGziJRH90QW77OfuP8al,d.a.u.d.a (feat. Gilli),d.a.u.d.a,Sivas,53,0.745,0.467,6,-6.213,0,0.0582,0.306,0.000299,0.0828,0.188,131.94,226453,4
+2vSCoCPNFQRSBBN3WJPkHi,Tyveri (feat. Gilli),Tyveri (feat. Gilli),Hasan Shah,46,0.572,0.707,10,-7.719,0,0.0515,0.151,0.0,0.165,0.819,183.852,223179,4
+4RgDgaohkG08f630ZT9QKc,Body - Dzeko Remix,Body (Dzeko Remix),Loud Luxury,53,0.653,0.946,5,-3.757,0,0.0556,0.00812,0.000207,0.126,0.653,125.966,165714,4
+2JzQJQyCBASBg6BmPUHR2l,Gizpræsidenter,Ingen Bekymringer,BasedBoys,40,0.672,0.685,9,-7.595,1,0.0467,0.226,0.0,0.422,0.594,127.899,206315,4
+0OPyDgTRuIdCJ9B4bYSths,Hotel Room Service,Pitbull Starring In Rebelution,Pitbull,75,0.85,0.631,1,-8.401,1,0.227,0.00684,0.000406,0.0679,0.738,126.002,237600,4
+4odiyU3myG29Ld0wurMfE8,She Doesn't Mind,Tomahawk Technique,Sean Paul,73,0.718,0.776,7,-5.208,0,0.0693,0.000624,5.3e-06,0.207,0.622,120.015,227787,4
+2bJvI42r8EF3wxjOuDav4r,Time of Our Lives,Globalization,Pitbull,85,0.721,0.802,1,-5.797,1,0.0583,0.0921,0.0,0.694,0.724,124.022,229360,4
+4FdqmCHIAYx4fIKXdDXpRA,Fejrer Det Hele,Fejrer Det Hele,Ude Af Kontrol,36,0.805,0.862,9,-5.954,0,0.091,0.15,5.43e-05,0.0506,0.448,131.981,166483,4
+72JGA28SwXQPiRN0K4YcO1,Dumt På Dig (Part 2) (feat. TopGunn & Djämes Braun) - Radio Edit,Dumt På Dig (Part 2) (feat. TopGunn & Djämes Braun),Kato,31,0.683,0.678,8,-4.948,0,0.162,0.1,0.0,0.0696,0.744,107.816,236730,4
+696pTNllVLM7EK9wMIuYdJ,Vibes,3,NODE,41,0.475,0.87,8,-4.054,1,0.33,0.206,0.0,0.352,0.811,86.719,171150,5
+0V6en6bpNQI7GIzI9TK6cu,Avatar,Avatar,NODE,40,0.842,0.656,0,-6.17,0,0.103,0.345,2.07e-05,0.119,0.54,119.979,156000,4
+1AguHaKOuggrVTebp7cZEI,Stereo Love - Radio Edit,Stereo Love,Edward Maya,67,0.799,0.783,1,-3.896,0,0.0322,0.0346,0.0186,0.0757,0.586,127.041,184573,4
+1arJHhz6TxMV50SNvSmGnV,Ecuador - Original Radio Edit,It's My Life,Sash!,69,0.591,0.888,4,-6.836,1,0.0354,0.00223,0.699,0.396,0.588,132.885,212133,4
+4hI2NaagyNj7N5kS9M9vVh,Som Forleden,Som Forleden,Lamin,57,0.759,0.797,4,-6.405,0,0.169,0.141,0.0,0.373,0.798,100.062,161842,4
+0C9P00gKzHroC3Et2SQylA,Like Wooh Wooh - Radio Edit,Like Wooh Wooh,Rnbstylerz,66,0.833,0.86,1,-5.331,1,0.0675,0.155,0.773,0.103,0.606,124.987,136189,4
+7uXAWHUWb9XiR7tXoLw4uD,Helwa,Helwa,Gilli,43,0.769,0.648,5,-5.951,0,0.073,0.176,9.78e-05,0.133,0.708,121.018,210248,4
+6ho0GyrWZN3mhi9zVRW7xi,Losing It,Losing It,FISHER,73,0.76,0.964,2,-5.844,1,0.0577,0.00181,0.703,0.0975,0.643,125.003,248036,4
+7nKBxz47S9SD79N086fuhn,SUBEME LA RADIO,SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox),Enrique Iglesias,71,0.688,0.822,0,-3.304,1,0.0537,0.0642,0.0,0.241,0.66,91.011,207680,4
+7hBGy8DIYXuUZf5ZUjKHPO,Kun For Mig,Velkommen Til Medina,Medina,55,0.697,0.573,0,-6.125,1,0.115,0.00709,1.04e-05,0.0751,0.346,124.965,254587,4
+3XV4YS4wIxZVJCeaMrJlwg,Slem igen (feat. Ceci Luca),Mig Og Mig Selv,Blak,47,0.822,0.466,6,-6.501,0,0.0385,0.285,0.0,0.65,0.754,100.015,191413,4
+6trzHhvr6xqYJkNnbWwXz2,We're Going To Ibiza!,The Party Album!,Vengaboys,64,0.786,0.876,1,-4.899,1,0.0362,0.0114,0.000784,0.0796,0.966,103.983,217539,4
+0w7JPlp7eEQI2EKW3ayXrv,Drugs From Amsterdam,Drugs From Amsterdam,Mau P,74,0.686,0.928,8,-10.38,1,0.0527,0.0316,0.727,0.0576,0.631,124.986,235786,4
+60OuNllvEgzkONpbhBd63M,Mumler For Meget (Artigeardit X Lamin),Ny Agenda,Artigeardit,45,0.837,0.365,1,-8.807,1,0.526,0.0381,0.0,0.0856,0.357,128.245,131495,4
+4eauGmjdriMZJgKSws3tLU,100%,Hva ved de om Lams,Lamin,52,0.798,0.552,2,-8.254,1,0.131,0.534,0.0,0.231,0.0927,128.075,187440,4
+6DCZcSspjsKoFjzjrWoCdn,God's Plan,Scorpion,Drake,84,0.754,0.449,7,-9.211,1,0.109,0.0332,8.29e-05,0.552,0.357,77.169,198973,4
+3RjG7K3VPzOUWbcrvAKBNK,Nummer,Nummer,Faustix,38,0.811,0.663,6,-5.357,0,0.178,0.175,0.0,0.171,0.766,117.098,164602,4
+4v1JsB0PAF3fHoz9f2ekMr,Følelsen,Sommerhits 2022,KESI,7,0.774,0.713,5,-4.748,0,0.0786,0.202,0.0,0.0567,0.872,92.96,198930,4
+0QzldbZnd9gLpor4S2EzJc,Rum Bum Bum,Rum Bum Bum,NAVID,43,0.583,0.624,2,-5.478,0,0.0482,0.309,0.000335,0.0569,0.784,95.38,158596,3
+2ViBch75J7T9MAyvakTjL5,Julia,L.I.G.A,LIGA,42,0.758,0.737,11,-4.205,0,0.0508,0.0835,0.0,0.0989,0.643,106.019,214813,4
+5GDjJI8Fr1pAb5fXrJQppv,00'er Pige,00'er Pige,Skinz,53,0.826,0.52,11,-6.948,1,0.336,0.0214,0.0,0.122,0.628,98.044,136849,4
+18jOIUboPPzwu84t9GlUKu,Under Radar,Under Radar,Benny Jamz,55,0.838,0.564,1,-6.704,1,0.178,0.0042,0.000161,0.114,0.488,129.938,190057,4
+32yIEFS62uS5ryhr2Xlooj,Hotel Room Service,Hotel Room Service,Pitbull,61,0.849,0.599,6,-8.164,1,0.227,0.00301,0.000249,0.0763,0.761,126.003,238507,4
+1lr5prHQn7Q766Ix6eGRKK,Freed from Desire (feat. Indiiana),Freed from Desire (feat. Indiiana),Drenchill,65,0.787,0.759,2,-4.957,0,0.121,0.0665,0.0,0.0711,0.146,126.004,161453,4
+3i0kzCSbAY2kDX2xiJdRLE,Elo Elo,Elo Elo,Benny Jamz,52,0.805,0.802,7,-5.067,0,0.115,0.271,0.0,0.191,0.659,118.091,110028,4
+4U1YTzusBYHEXPumokfrAA,MCQUEEN (feat. Branco) - HEDEGAARD & FAUSTIX REMIX,MCQUEEN (REMIX),RH,34,0.904,0.559,1,-7.613,1,0.15,0.00893,0.00254,0.148,0.583,122.059,167213,4
+0rHVd8h0cFwgLgPFem6S60,Girls Like (feat. Zara Larsson),Girls Like (feat. Zara Larsson),Tinie Tempah,63,0.916,0.804,0,-3.406,1,0.049,0.37,1.18e-05,0.0812,0.538,120.028,196000,4
+3Eemi4XR3hqNP4JnIV35Ca,Solo,OMG It's LIT Vol. 3,Faustix,45,0.405,0.846,4,-6.207,0,0.285,0.0601,0.0,0.239,0.232,105.091,151286,1
+6YwLgicpvVuMt1eE2OldwQ,Five More Hours,Five More Hours,Deorro,65,0.699,0.883,5,-3.226,0,0.219,0.0288,0.0,0.817,0.499,127.961,211975,4
+1rFMYAZxBoAKSzXI54brMu,You Don't Know Me,You Don't Know Me,Jax Jones,63,0.877,0.658,11,-6.055,0,0.132,0.163,0.0,0.108,0.693,123.999,213947,4
+5YPMEOJ58kfl56VHxTgwx3,Play Hard (feat. Ne-Yo & Akon),Nothing but the Beat (Ultimate Edition),David Guetta,73,0.691,0.921,8,-1.702,0,0.0533,0.173,0.0,0.331,0.8,130.072,201000,4
+7G7Vg7wlhAH15VHQD29ZgI,Helt Sikker,Helt Sikker,Gulddreng,40,0.602,0.799,7,-6.125,1,0.0372,0.0893,0.0,0.366,0.819,163.948,210062,4
+6Dy1jexKYriXAVG6evyUTJ,OUT OUT (feat. Charli XCX & Saweetie),OUT OUT (feat. Charli XCX & Saweetie),Joel Corry,75,0.787,0.833,8,-4.403,1,0.0478,0.018,0.00747,0.0374,0.796,123.97,162604,4
+1o9D0rUusi2V5idyOEOPII,Sweet Dreams (Are Made of This),Sweet Dreams (are Made of This),Winati,57,0.815,0.647,9,-7.162,0,0.218,0.399,0.0,0.0738,0.182,125.95,176773,4
+0qaWEvPkts34WF68r8Dzx9,Turn Me On (feat. Vula),Turn Me On (feat. Vula),Riton,70,0.737,0.828,11,-4.711,1,0.0396,0.0149,0.000588,0.0862,0.517,124.051,208474,4
+2pPO9YecZimmuVQfIzfV6U,Wasted Love (feat. Lagique),Wasted Love (feat. Lagique),Ofenbach,65,0.734,0.855,6,-4.578,0,0.135,0.0821,4.73e-06,0.0901,0.54,121.955,139563,4
+73vIOb4Q7YN6HeJTbscRx5,Miss You,Miss You,Oliver Tree,18,0.587,0.742,6,-6.64,0,0.0529,0.0128,0.00107,0.146,0.199,145.007,206000,4
+5YHR8wBR5jXfGtP766NiAT,If It Ain't Love,If It Ain't Love,Jason Derulo,52,0.503,0.843,10,-4.991,0,0.316,0.0487,0.0,0.344,0.778,128.63,203105,4
+5HCyWlXZPP0y6Gqq8TgA20,STAY (with Justin Bieber),STAY (with Justin Bieber),The Kid LAROI,82,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,141806,4
+6jNHpJIBFTJwl3bxWrGF6K,Mi Gente,Mi Gente,J Balvin,52,0.548,0.701,11,-4.862,0,0.0914,0.0178,1.34e-05,0.134,0.309,104.237,189029,4
+0A5gdlrpAuQqZ2iFgnqBFW,Moonlight,Moonlight,Gaullin,62,0.813,0.761,10,-5.687,0,0.085,0.0529,0.0119,0.337,0.29,124.957,173067,4
+1xNcBAoUw8Hz6LqK2jt4Ff,Call on Me - Radio Mix,Call on Me (Radio Mix),Eric Prydz,77,0.597,0.837,10,-6.518,1,0.375,0.00427,0.00115,0.839,0.447,126.342,171360,4
+27NovPIUIRrOZoCHxABJwK,INDUSTRY BABY (feat. Jack Harlow),INDUSTRY BABY (feat. Jack Harlow),Lil Nas X,77,0.736,0.704,3,-7.409,0,0.0615,0.0203,0.0,0.0501,0.894,149.995,212000,4
+2xnJK0zZoSCbxIW4RYNYQv,Velsignet - Har Det Godt pt. 2,Velsignet (Har Det Godt pt. 2),Ude Af Kontrol,30,0.622,0.897,2,-4.946,1,0.109,0.0109,0.0,0.0449,0.575,134.245,185504,4
+1fCUkXJijtAGv7XCbk3X2R,Censor,Censor,Gulddreng,26,0.596,0.67,6,-5.102,0,0.0757,0.158,0.0,0.467,0.509,149.937,227774,4
+4WwK4v2SafUqBGg9LCQkBv,21 Studenter,21 Studenter,Science,2,0.773,0.822,1,-5.989,1,0.0488,0.0453,7.9e-05,0.447,0.515,128.043,166880,4
+5xVQeWdm4AJTrav8ZMQ86t,Jantelov,Jantelov,Ude Af Kontrol,27,0.901,0.788,2,-6.834,1,0.0822,0.0388,7.19e-06,0.0495,0.761,128.079,150000,4
+4YnAKHP8pUPeaOov12tljh,The Whistle Song,Payback Time,DJ Aligator,51,0.834,0.913,11,-7.28,0,0.0354,0.00144,0.00466,0.108,0.903,139.982,223800,4
+1M1RidAKmE1zER8XSjRf2l,Ingen Bekymringer,Ingen Bekymringer,BasedBoys,30,0.618,0.73,5,-3.694,0,0.0817,0.235,0.0,0.0883,0.617,99.934,219947,4
+2vDqu1VzOmOpUCSvthaVMc,Kongen Af Klubben,Kongen Af Klubben,Kato,27,0.597,0.976,9,-2.831,1,0.063,0.0076,0.00374,0.507,0.507,150.005,222027,4
+665AK0ovB11McZRwfa852G,Astronomia,Astronomia,Vicetone,58,0.653,0.945,5,-2.634,1,0.096,0.00561,0.915,0.439,0.325,126.093,198095,4
+4GeqhagYz03kwTAbKBaVf9,Snehvide Med De 7 Små Poser,Under Al Kritik,Ude Af Kontrol,48,0.868,0.855,10,-5.655,0,0.144,0.0935,0.000182,0.106,0.518,130.014,170000,4
+6Sy9BUbgFse0n0LPA5lwy5,Sandstorm,"Before the Storm, Special Edition",Darude,71,0.528,0.965,11,-7.984,0,0.0465,0.141,0.985,0.0797,0.587,136.065,225493,4
+0tF8YuuX8eXuw3RgRGH9wZ,Ejer Det - feat. Specktors & Djämes Braun,Modgift,Kato,23,0.688,0.807,7,-4.625,1,0.0457,0.0156,0.0,0.112,0.508,123.977,239867,4
+3aC1esceg9i6WSzVTbvB66,Huen på,Huen på,Hakkedrenge,4,0.629,0.492,11,-11.268,0,0.24,0.0179,0.000306,0.0691,0.545,128.366,179087,4
+0J9W7441lP0XRAWfrrPaIj,Ryst' Pagne,Kiddæsancen,KIDD,40,0.611,0.576,7,-7.091,0,0.26,0.158,0.0,0.127,0.235,165.039,257898,4
+5EuVplVa6I5vbAUBuCRnvS,Loco Papi,Loco Papi,Sevenn,52,0.759,0.987,6,-2.516,0,0.0928,0.0754,0.788,0.268,0.786,124.992,178560,4
+7sDNklMGfqfCUc53rppGAz,Later Bitches - DNF Remix,Later Bitches (DNF Remix),The Prince Karma,1,0.832,0.873,0,-4.789,1,0.0653,0.000304,0.0139,0.0456,0.461,126.008,209539,4
+1XSFDXrbjjVTVN6W2vDULk,Arab dak (Extended Version),Arab dak (Extended Version),Diekel,0,0.67,0.887,0,-9.0,1,0.0671,0.844,0.833,0.153,0.401,159.92,139500,4
+4pFlr2xeJO1wgwiUw6pkaJ,Kalder På Dig (feat. Rasmus Seebach),Mere End Musik,Benny Jamz,43,0.768,0.647,7,-6.656,1,0.219,0.25,0.0,0.629,0.475,94.397,170906,4
+3CzA76hyoc6yZ9lDdT3jVb,Gimme! Gimme! Gimme! - Scotty Extended Mix,Gimme! Gimme! Gimme! (A Man After Midnight),Scotty,5,0.874,0.647,2,-4.82,1,0.062,0.00436,0.000935,0.0856,0.409,127.993,217031,4
+0NUhccl4bo79EUsmFyAMHi,El Cuervo,El Cuervo,Endor,1,0.831,0.707,6,-8.263,0,0.0567,0.0309,0.815,0.948,0.848,126.015,188968,4
+2JjwnqblNik241Uzuusdck,Alla som inte dansar,Boys II Men,Maskinen,42,0.863,0.651,9,-6.995,0,0.0963,0.0213,0.0,0.0408,0.885,125.034,220267,4
+3uksXbaCYVWXLCZ2BYVgYY,My Life Is A Party - Radio Edit,My Life Is A Party,ItaloBrothers,50,0.613,0.926,1,-5.352,1,0.409,0.051,0.0,0.0546,0.16,149.999,194760,4
+5jpXMXnEcZonzy7lFK7rXs,Dope,Platin EP,Puls,43,0.786,0.733,9,-5.89,1,0.0933,0.00938,0.0,0.13,0.551,129.905,176800,4
+2UqLkBWjSDwewOjd8LKdks,Kun For Mig,Kun For Mig,Medina,20,0.686,0.591,0,-5.099,1,0.095,0.00711,7.5e-06,0.0796,0.314,124.968,252720,4
+6zltRCgtPHajYgeZoEqcgv,Smooth Operator - TikTok Remix,Smooth Operator (TikTok Remix),Aiden Music,56,0.863,0.609,9,-6.962,0,0.264,0.0397,0.000426,0.395,0.395,129.985,225236,4
+53uDo6T6ChHeI19uYLjA3K,Taknemlig,Taknemlig,Ude Af Kontrol,40,0.685,0.733,5,-4.122,0,0.0438,0.147,2.31e-06,0.135,0.816,125.181,145521,4
+2lW57y7U7Pce21wRiMe6EA,Ali Ali,Ali Ali,Diorange,56,0.709,0.864,10,-6.033,0,0.276,0.0123,0.0293,0.487,0.48,135.111,124000,4
+1E7rPZOBk6HYXDC7AvZRWr,STEPPA' IN,STEPPA' IN,Branco,39,0.535,0.805,6,-4.456,1,0.38,0.0228,0.0,0.189,0.522,95.93,142914,4
+2LA3PGoXTjPTpQf7pQdP8Q,Har Det Godt,BUSTUM (Deluxe),Ude Af Kontrol,39,0.851,0.677,7,-7.756,0,0.236,0.115,6.52e-05,0.229,0.468,100.01,224961,4
+2XU0oxnq2qxCpomAAuJY8K,Dance Monkey,Dance Monkey (Stripped Back) / Dance Monkey,Tones And I,75,0.824,0.588,6,-6.4,0,0.0924,0.692,0.000104,0.149,0.513,98.027,209438,4
+4z9bSBXNxEgk0nEKIvu2L9,16,16,Larry,42,0.887,0.511,10,-7.219,0,0.0574,0.434,0.0,0.0967,0.674,111.964,188644,4
+1DZvsj6dfrD8aNkYEgFZ5R,California Dreaming,California Dreaming,Besomorph,50,0.788,0.745,1,-6.323,1,0.0437,0.0328,0.000368,0.158,0.106,127.981,133125,4
+3CqOtlJVMLdnny860ZRSOt,We Like 2 Party,Bedre Sent End Aldrig,Ude Af Kontrol,42,0.915,0.837,11,-4.318,1,0.183,0.0677,0.0,0.118,0.542,124.987,119269,4
+7loKHj4JaKCe8rk4LMT9wt,FuckBoi,Ude Af Kurs,Ude Af Kontrol,38,0.848,0.894,9,-3.783,1,0.219,0.0159,0.000202,0.33,0.423,128.027,167047,4
+2cwdtbfsIwPaqtfi3anwAp,John Oliver,Ude Af Kurs,Ude Af Kontrol,35,0.889,0.956,1,-5.2,1,0.181,0.142,2.71e-06,0.105,0.704,137.012,157664,4
+4YQPa47NDfRm61QrDWKazv,The Moments I'm Missing - RANJI vs WHITENO1SE,The Moments I'm Missing (RANJI vs WHITENO1SE),Ranji,53,0.362,0.883,1,-5.918,1,0.0703,0.0216,0.00813,0.115,0.0385,103.407,184348,3
+3jWClPWqozZ2nxEpJW4q8U,Mer Prestige Mer Pastis,Sindssyge Ting,Suspekt,33,0.428,0.709,10,-10.302,0,0.781,0.183,0.000123,0.119,0.298,78.97,267733,4
+6oJflQkp7lFXOQce4wPTAW,Samsara (feat. Emila),Samsara (feat. Emila),Tungevaag,57,0.489,0.641,11,-7.011,0,0.032,0.00598,0.0201,0.122,0.587,108.901,211885,4
+0WF7oXKQ1ZscizRua1JmcN,Karma,Din For Evigt,Burhan G,0,0.696,0.876,0,-4.119,1,0.0465,0.0232,0.0,0.108,0.936,99.994,189440,4
+2IzAIpeYc4MQ4T6iaxme15,Gør det,I Danmark er jeg født,Natasja,34,0.806,0.706,6,-5.914,1,0.249,0.0322,0.0,0.326,0.825,126.888,184760,4
+6OKXk3jDfdltlPkMzzxtK8,Ensom,Velkommen Til Medina (Special Edition),Medina,18,0.705,0.764,7,-5.256,1,0.0318,0.00161,0.00671,0.137,0.397,125.038,251520,4
+5BKvRShfSfa1phRGEKkSvb,Danser Med Dæmoner,Danser Med Dæmoner,Baloosh,62,0.755,0.746,7,-5.636,0,0.267,0.402,0.0,0.158,0.433,139.99,161433,4
+2zbr6Jls3FE4JCtLwCPD5N,Sent,Sent,Artigeardit,63,0.778,0.668,6,-6.324,0,0.124,0.0505,0.0,0.14,0.431,138.082,154565,4
+55tzGLYgoN9YVaYXho5Ehh,Vest for København,Vest for København,Kaliber,37,0.82,0.625,4,-6.118,0,0.0775,0.00803,0.0,0.131,0.418,92.015,244760,4
+3VWuGvgAaYMB6bSNevfozD,555 (feat. KESI),Kiko Club,Gilli,23,0.529,0.846,1,-4.302,0,0.317,0.0258,0.0,0.303,0.682,189.61,157631,3
+6WMStGFY8unO21M5OPHeVE,Ingen Som Os (feat. Benny Jamz & KESI),Kiko Club,Gilli,9,0.825,0.843,0,-4.006,0,0.0556,0.0282,2.84e-05,0.1,0.583,119.978,198140,4
+66K8nCovQPjJLs11RAqdnl,Skarpt Lys,Skarpt Lys,Gilli,8,0.759,0.727,6,-5.324,0,0.138,0.0565,2.15e-06,0.0984,0.733,149.95,184441,4
+13FWeWAZ84LQQ1S4KNPWWe,Du & Jeg,Du & Jeg,Gilli,3,0.797,0.75,9,-5.979,1,0.237,0.116,0.0,0.103,0.507,128.913,173024,4
+0laYHRpNTS6i8FXdupHkJ4,Love You Like A Love Song,When The Sun Goes Down,Selena Gomez & The Scene,81,0.858,0.678,1,-3.87,0,0.0469,0.0761,0.0,0.0741,0.922,117.009,188453,4
+7kOe99207cdyOlLHKy65SA,GIVE IT 2 ME,GIVE IT 2 ME,GMG,47,0.892,0.527,9,-8.99,1,0.281,0.0143,0.0,0.108,0.373,107.971,124722,4
+4sGUkfsLxIK4tZxLZt0unU,Balancen (feat. Kesi),DK GOAT,TopGunn,38,0.683,0.583,5,-8.35,1,0.446,0.114,0.0,0.182,0.39,84.488,173070,4
+0yD9hgruivtAAZ7HrKPYmG,Boom Boom Boom,Adults Only,The Outhere Brothers,42,0.737,0.642,7,-15.321,1,0.15,0.00818,5.63e-05,0.114,0.561,129.977,204072,4
+4Bmua8zRMOEaqV45JbmhAH,Intet Nyt (feat. Gilli),Intet Nyt (feat. Gilli),Merro8,60,0.87,0.688,0,-5.445,1,0.17,0.0476,0.0,0.235,0.607,135.149,174889,4
+0GSoForoOEUELr6W30bDpp,Balaclava,Balaclava,ICEKIID,58,0.919,0.559,2,-6.889,1,0.0995,0.0129,5.23e-06,0.0601,0.796,120.02,149750,4
+1erc6T5ojSwOiuNc7i2AFA,OT,OT,Lamin,63,0.721,0.593,0,-5.557,0,0.356,0.0895,0.0,0.163,0.467,115.201,170870,4
+2HOupwtO1TPBLn23x3Lhry,Uhh Det Er Så Svært At Være Så God,Greatest Hits 2011,KIDD,39,0.679,0.815,7,-6.383,0,0.0823,0.00729,0.0,0.314,0.187,144.994,232027,4
+7fkl08xSsjITWXKbBMl6ep,Faxe Kondi,Indtil Nu,Raske Penge,28,0.801,0.59,9,-8.284,1,0.409,0.0198,0.0,0.0742,0.598,81.825,260738,4
+0SYgFUs4mbY9iNUxmUZ9iX,Peligrosa,Carnival,Gilli,49,0.716,0.775,7,-6.158,1,0.141,0.434,6.76e-05,0.383,0.472,130.079,155552,4
+0cqRj7pUJDkTCEsJkx8snD,Shake It Off,1989 (Deluxe),Taylor Swift,81,0.647,0.8,7,-5.384,1,0.165,0.0647,0.0,0.334,0.942,160.078,219200,4
+5eX78VCIia3G4A6tbdV5n3,Stein Bagger (feat. Sivas),Forbandede Ungdom,Ukendt Kunstner,52,0.62,0.638,8,-6.285,1,0.0652,0.13,0.0,0.215,0.184,132.305,404593,4
+5jWfU6LMjuFqWUK6gXGixD,Helt Sikker,Helt Sikker,Baloosh,57,0.722,0.742,7,-5.891,1,0.327,0.0958,0.0,0.344,0.299,140.417,123224,4
+59xD5osEFsaNt5PXfIKUnX,Illusion,Illusion,Dua Lipa,88,0.677,0.763,8,-4.701,0,0.0471,0.0235,2.04e-06,0.0894,0.719,126.962,188143,4
+4NQuRYSPNBEzSA56emBa8d,Lovin on Me,Fest 2024,Jack Harlow,34,0.943,0.558,2,-4.911,1,0.0568,0.0026,2.19e-06,0.0937,0.606,104.983,138411,4
+331l3xABO0HMr1Kkyh2LZq,I Don't Wanna Wait,I Don't Wanna Wait,David Guetta,87,0.681,0.714,1,-4.617,0,0.0309,0.0375,0.0,0.232,0.554,129.976,149668,4
+377uEWjxVKksQDlwDqaIfx,My Oh My,My Oh My,Ava Max,77,0.691,0.856,11,-3.899,1,0.0383,0.0174,4.76e-05,0.111,0.638,117.081,156155,4
+6Y43zGmLDquhESvkY943RB,Tak for sidst,Fest 2024,Gobs,10,0.815,0.613,7,-4.785,1,0.236,0.0897,0.0,0.0949,0.649,134.926,154155,4
+6Qb7YsAqH4wWFUMbGsCpap,Training Season,Training Season,Dua Lipa,90,0.812,0.587,5,-4.483,0,0.0477,0.0349,2.64e-06,0.123,0.664,123.041,209488,4
+2aNMkT86YjYPlKujUiHYbS,FORSVINDER (feat. Gobs),FORSVINDER (feat. Gobs),Branco,57,0.732,0.807,4,-5.221,0,0.338,0.402,0.0,0.239,0.537,139.932,160471,4
+07poEGXe38L3sXAFKHzO25,Danser med dæmoner,Fest 2024,Baloosh,11,0.755,0.746,7,-5.636,0,0.267,0.402,0.0,0.158,0.433,139.99,161433,4
+63pkGvmlp4x4fbwYdPlFyn,Baby Don’t Hurt Me,Fest 2024,David Guetta,8,0.602,0.91,7,-3.404,1,0.0308,0.00126,0.000174,0.12,0.228,127.944,140018,4
+08vwTvB6Et9UopY3Vfp5sA,10:35,Fest 2024,Tiësto,8,0.696,0.793,8,-5.733,1,0.097,0.0683,3.78e-06,0.18,0.698,120.003,172253,4
+3gCBF4XZx7dmEtaRDoQLEd,The Moves (feat. Muni Long & Nile Rodgers),The Moves (feat. Muni Long & Nile Rodgers),NEIKED,56,0.726,0.845,2,-4.496,1,0.0343,0.0674,0.0049,0.311,0.933,104.004,170049,4
+3VWuGvgAaYMB6bSNevfozD,555 (feat. KESI),Kiko Club,Gilli,23,0.529,0.846,1,-4.302,0,0.317,0.0258,0.0,0.303,0.682,189.61,157631,3
+7rm32HsCnuJglhovU5K6Rp,I’m Good (Blue),Fest 2024,David Guetta,7,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,175238,4
+7gaA3wERFkFkgivjwbSvkG,"yes, and?","yes, and?",Ariana Grande,86,0.787,0.775,1,-6.614,1,0.0548,0.19,6.54e-05,0.113,0.787,118.998,214994,4
+2x03XLsTZ0o86h0cfHrkKF,After Hours,After Hours,Kehlani,78,0.729,0.777,1,-3.991,1,0.0431,0.069,0.00162,0.112,0.744,121.016,202414,4
+3aQzeklWllLWZSH4xk7Udj,I KNOW,I KNOW,D1MA,63,0.844,0.674,4,-6.09,0,0.091,0.039,0.0,0.1,0.319,113.973,189474,4
+4OMJGnvZfDvsePyCwRGO7X,Houdini,Houdini,Dua Lipa,90,0.744,0.789,9,-4.876,0,0.059,0.0036,0.00144,0.0947,0.866,116.985,185918,4
+6dZFlH3ECMyjscdLczgYV7,adore u,Fest 2024,Fred again..,4,0.747,0.867,0,-7.311,1,0.088,0.582,0.00413,0.114,0.684,124.015,220653,4
+0p8TDtlH5B2VbMaTKcnA4a,De første kærester på månen,Fest 2024,Faustix,6,0.691,0.734,7,-5.905,1,0.0553,0.408,0.0,0.113,0.634,132.021,169205,4
+1vYXt7VSjH9JIM5oRRo7vA,Dance The Night - From Barbie The Album,Dance The Night (From Barbie The Album),Dua Lipa,87,0.671,0.845,11,-4.93,0,0.048,0.0207,0.0,0.329,0.775,110.056,176579,4
+78dsAqvPezU0xkeEJMjlj3,Down,Nu King,Jason Derulo,66,0.732,0.738,7,-5.014,0,0.292,0.0725,0.0,0.203,0.734,115.923,129797,4
+59NraMJsLaMCVtwXTSia8i,Prada,Prada,cassö,89,0.638,0.717,8,-5.804,1,0.0375,0.001,1.79e-06,0.113,0.422,141.904,132359,4
+7k4SfOrgXvcgXCH2QzcfZq,DO YOU LOVE ME?,DO YOU LOVE ME?,Branco,52,0.976,0.738,1,-3.989,1,0.22,0.013,0.000333,0.0509,0.772,117.026,142992,4
+7hxsYFVWD4cCVSH5MwF2k4,Hvassådair,Fest 2024,L.O.C.,5,0.817,0.659,1,-6.33,1,0.148,0.00425,4.19e-06,0.543,0.403,111.014,150665,4
+1XZy2eprbATl4AnL9Fpsw1,Dance Alone,Dance Alone,Sia,73,0.687,0.651,1,-4.756,1,0.0419,0.00296,0.26,0.0822,0.508,119.961,172246,4
+7hdNTegC0TCKKoxB6GTFH3,Lighter,Lighter,Galantis,75,0.674,0.799,6,-4.889,1,0.0368,0.133,0.0,0.0525,0.578,124.933,172269,4
+07bsRv0pcpbG4zJeLsUs1p,Eyes Closed,Eyes Closed,Ed Sheeran,8,0.777,0.526,2,-6.221,1,0.0645,0.302,0.0,0.105,0.389,107.071,194849,4
+2kvg2y32fu4YQOdBIYVhh9,Malibu,FEST 2022 - Musikken til din FEST,Skinz,6,0.688,0.58,0,-5.955,1,0.0773,0.0667,0.0,0.388,0.539,102.749,191144,4
+6Jo8PlBAHLUY2aYpPS171R,Lækker,FEST 2022 - Musikken til din FEST,Nik & Jay,7,0.83,0.863,8,-6.637,1,0.0893,0.272,5.46e-06,0.662,0.923,130.029,203960,4
+5O6qenUvH31dan0pojwLj1,Tro På Kærlighed,Tro På Kærlighed,Gobs,0,0.708,0.77,5,-5.102,0,0.105,0.129,0.0,0.135,0.545,144.04,158957,4
+1TcF5F10EN17vraisG1gQv,Happier (feat. Clementine Douglas),Happier (feat. Clementine Douglas),The Blessed Madonna,77,0.785,0.831,0,-3.681,1,0.0444,0.0038,0.0105,0.086,0.673,126.056,170359,4
+1MVqeIAwhD4T44AKVkIfic,leavemealone,leavemealone,Fred again..,77,0.68,0.881,0,-4.503,1,0.0553,0.00499,0.0253,0.574,0.105,174.062,222784,4
+0p0zES2I7Lgeow1yXmF8ss,Hotstepper,Hotstepper,Trinix,65,0.753,0.826,11,-7.438,0,0.0433,0.00719,0.369,0.324,0.484,120.019,141795,4
+5I79n5dcNdxGbJsmvUAXdz,Afraid to Feel,FEST 2022 - Musikken til din FEST,LF SYSTEM,7,0.578,0.912,1,-3.929,1,0.114,0.0166,0.00362,0.273,0.68,127.87,177525,4
+3rUGC1vUpkDG9CZFHMur1t,greedy,greedy,Tate McRae,95,0.749,0.729,6,-3.19,0,0.0321,0.261,0.0,0.113,0.816,111.004,131872,1
+741UUVE2kuITl0c6zuqqbO,Barbie World (with Aqua) [From Barbie The Album],Barbie World (with Aqua) [From Barbie The Album],Nicki Minaj,78,0.77,0.58,0,-8.393,1,0.247,0.519,0.000127,0.233,0.753,144.072,109750,4
+3zkyus0njMCL6phZmNNEeN,LET GO,LET GO,Central Cee,76,0.747,0.413,2,-11.197,0,0.488,0.848,0.0,0.17,0.481,146.05,174247,4
+6r1Ltmuu5a5JenOwF59VH2,I Wanna Be Dancing,FEST 2022 - Musikken til din FEST,Drew Sycamore,6,0.764,0.792,8,-5.465,1,0.067,0.0284,0.00175,0.317,0.83,123.024,160953,4
+0ZkWgwcEF789jw1RxggBcU,Lågsus for evigt,FEST 2022 - Musikken til din FEST,Specktors,6,0.871,0.708,2,-5.382,1,0.133,0.0308,0.0,0.185,0.355,104.005,160607,4
+23RoR84KodL5HWvUTneQ1w,(It Goes Like) Nanana - Edit,(It Goes Like) Nanana [Edit],Peggy Gou,84,0.671,0.876,7,-5.681,0,0.0352,0.12,0.188,0.0823,0.964,129.998,231545,4
+0GFJI3tJuE9S3su4H8Co2G,Je Ka Jo,Je Ka Jo,ICEKIID,55,0.868,0.741,8,-4.448,0,0.0983,0.168,4.31e-06,0.0894,0.89,112.044,178556,4
+4554qEDZJpPT3zSjn3C8K8,Bad Habits,FEST 2022 - Musikken til din FEST,Ed Sheeran,5,0.807,0.893,11,-3.745,0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,230747,4
+1Qg3jb8IJ56S75ktJXBaVM,About Damn Time,FEST 2022 - Musikken til din FEST,Lizzo,4,0.836,0.743,10,-6.305,0,0.0656,0.0995,0.0,0.335,0.722,108.966,191822,4
+1B6jWZtTp6od8DQBQ9l8Ji,vi ku' blive,vi ku' blive,Artigeardit,47,0.63,0.614,1,-5.636,1,0.294,0.337,0.0,0.121,0.394,84.814,207010,4
+6q0sZFMvdZiInjkGZglRlu,MOONLIGHT,MOONLIGHT,D1MA,46,0.714,0.492,8,-8.252,0,0.209,0.566,0.0,0.325,0.557,118.987,197043,4
+4fVtYkTcogxKGTYfdvTaTJ,The Real Me (feat. Charla K),The Real Me (feat. Charla K),John Alto,19,0.737,0.873,9,-5.662,0,0.0528,0.000535,0.00808,0.106,0.326,123.965,165173,4
+3k0DJq2HdWJqnqor8NX0ac,Padam Padam,Padam Padam,Kylie Minogue,17,0.746,0.622,5,-7.923,1,0.241,0.201,0.00113,0.104,0.719,128.101,166267,4
+0dxp7DyPJEo6JhtnjUtBnN,On My Love,On My Love,Zara Larsson,75,0.495,0.691,10,-4.989,0,0.0447,0.0745,0.0033,0.0881,0.299,123.051,222912,4
+0kX52PRDLaCOeRgfT6adUo,Drinkin',Fest 2024,Joel Corry,3,0.716,0.963,0,-3.097,0,0.0931,0.0344,0.0,0.292,0.707,124.97,149546,4
+5ug7BcjqIxtaIUQ5LJVYrg,Bel Mercy (El Jefe),Bel Mercy (El Jefe),Jengi,38,0.95,0.701,1,-8.3,1,0.0752,0.0515,1.39e-05,0.171,0.761,127.025,170079,4
+76kPBA6oe1H3DUdqiH2Ka3,Bytte tøj,Fest 2024,Jencel & Kawamura,2,0.797,0.839,1,-5.656,1,0.044,0.00176,0.693,0.0856,0.523,127.995,181941,4
+02ZhvwvEiWQfCF1T4gfUFq,Punani (feat. AG),Punani (feat. AG),LuuX,20,0.759,0.875,11,-4.407,1,0.0893,0.00267,0.00145,0.784,0.441,125.982,161309,4
+6k6oOmP2UqF84e46rlArXW,Hot In It,FEST 2022 - Musikken til din FEST,Tiësto,4,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,129817,4
+2HbTwmup8SWz5tMcKZXFLh,Big FU,Big FU,David Guetta,63,0.774,0.711,11,-7.97,0,0.18,0.243,0.00052,0.0732,0.612,125.14,161771,4
+4iPYjk9MEu9oArkp9pBwCa,BED,FEST 2022 - Musikken til din FEST,Joel Corry,4,0.671,0.782,6,-4.593,1,0.0341,0.0142,0.00221,0.333,0.618,123.989,178088,4
+1ciemDCppxQbYhXzqMoBV0,Sweet Lies,Sweet Lies,Nathan Dawe,47,0.717,0.866,5,-4.74,1,0.0434,0.189,0.0,0.064,0.787,130.053,121860,4
+1MCVEHDgA1vOzzLc8Avdk1,Another Baby (feat. Marion Woodseth),Another Baby (feat. Marion Woodseth),SMYLES,26,0.595,0.712,1,-6.364,0,0.0445,0.14,0.0,0.25,0.202,119.008,165757,4
+4y9gnzCfXCzP1H78UKrmeN,Finesse,Fest 2024,Bruno Mars,5,0.734,0.762,5,-6.881,0,0.072,0.00714,0.0,0.0312,0.923,104.945,189440,4
+2V0UbEUzHgJEyFQNjMwHcK,In The Club,In The Club,Drew Sycamore,25,0.807,0.673,7,-4.078,0,0.0714,0.00554,0.00574,0.182,0.685,120.026,186538,4
+3LtpKP5abr2qqjunvjlX5i,Doja,Doja,Central Cee,80,0.911,0.573,6,-7.43,1,0.288,0.38,0.0,0.403,0.972,140.04,97393,4
+1Qr1ScipmboozB3rnsB45J,Saturday/Sunday,Fest 2024,Jason Derulo,2,0.698,0.781,8,-5.615,0,0.0401,0.143,0.0,0.0762,0.851,124.017,166573,4
+33tMhS8UINBdZ0xiQF1YdB,Million Dollar Baby,FEST 2022 - Musikken til din FEST,Ava Max,4,0.667,0.858,2,-2.268,0,0.0926,0.0367,1.47e-05,0.325,0.641,133.039,184295,4
+3G7kVYm4sodowGPSw9WWA4,Don't Start Now,FEST 2022 - Musikken til din FEST,Dua Lipa,4,0.793,0.793,11,-4.521,0,0.083,0.0123,0.0,0.0951,0.679,123.95,183290,4
+7fZBQnc0zXwVybgCIrQQil,Belly Dancer,Belly Dancer,Imanbek,81,0.845,0.797,1,-4.984,1,0.139,0.0582,5.57e-06,0.167,0.422,121.985,151475,4
+6frmyYive78KBMYKxI7XA2,Delilah (Pull Me Out of This),Fest 2024,Fred again..,4,0.685,0.827,10,-7.745,1,0.224,0.138,0.00207,0.374,0.586,133.93,250702,4
+1CcLA0eaauck34YEIrvAAq,When We Were Young (The Logical Song),When We Were Young (The Logical Song),David Guetta,83,0.657,0.914,0,-4.513,0,0.0523,0.0526,6.32e-06,0.109,0.502,139.989,147433,4
+0h3Xy4V4apMraB5NuM8U7Z,Stumblin' In,Stumblin' In,CYRIL,88,0.875,0.518,2,-8.388,1,0.0551,0.0638,0.00995,0.125,0.37,126.089,213364,4
+2o97OhRvkc1WGbV20QkB0R,Rock My Body,Rock My Body,R3HAB,0,0.662,0.821,2,-4.103,0,0.13,0.202,0.0,0.522,0.47,124.077,137419,4
+2IWve98Y063a6Bi7kU2wUo,Damn (You’ve Got Me Saying),Fest 2024,Galantis,2,0.665,0.843,5,-3.347,0,0.0354,0.0654,0.0,0.268,0.845,122.029,195268,4
+239IDluIdpM91ATxdkQUWM,B.O.T.A. (Baddest of Them All) - Edit,Fest 2024,Eliza Rose,3,0.733,0.921,0,-7.077,1,0.0446,0.161,0.662,0.122,0.729,136.996,226627,4
+79oaULUoCMYTVA7bYvBKuW,Break My Heart,Fest 2024,Dua Lipa,3,0.73,0.729,4,-3.434,0,0.0884,0.167,1.39e-06,0.349,0.467,113.011,221820,4
+0kFU2irhrsfL5wHKeQxxtE,Lose My Cool,FEST 2022 - Musikken til din FEST,Faustix,3,0.745,0.754,5,-4.693,0,0.0698,0.238,1.64e-06,0.245,0.708,111.905,175446,4
+3ktxMYRaQPwkLHoBb2LC16,21 Reasons,FEST 2022 - Musikken til din FEST,Nathan Dawe,3,0.621,0.785,6,-4.499,1,0.11,0.0165,5.92e-06,0.0512,0.779,123.96,155253,4
+3AWUgEAs3yGd9K8ahhmigM,2 Be Loved (Am I Ready),FEST 2022 - Musikken til din FEST,Lizzo,3,0.721,0.769,7,-4.111,1,0.105,0.0922,0.0,0.0817,0.915,155.932,187108,4
+5BAy87AEQrs606vFDJQZEa,"I Love Ya, Pt. 2",Fest 2024,Nik & Jay,4,0.749,0.724,1,-6.322,1,0.0914,0.143,0.0,0.0773,0.704,96.006,284760,4
+40DO0KarQCKdj3eJ6zIIHy,Shape of You,Fest 2024,Ed Sheeran,4,0.825,0.652,1,-3.183,0,0.0802,0.581,0.0,0.0931,0.931,95.977,233713,4
+4uHl1f6ZGhFPlwH1AJUAen,Er derude,Fest 2024,Skinz,2,0.686,0.593,2,-6.735,1,0.0569,0.0118,0.0,0.182,0.411,159.927,203495,4
+4uSYnEpAWsSEmN23TlXSH2,The Rhythm Of The Night,The Rhythm Of The Night,EDX,30,0.633,0.94,10,-5.916,1,0.0375,0.00242,0.0803,0.0968,0.694,124.986,191340,4
+5DHvkWEnCrI4RPanKLwnDS,First Class,FEST 2022 - Musikken til din FEST,Jack Harlow,2,0.905,0.563,8,-6.135,1,0.102,0.0254,9.71e-06,0.113,0.324,106.998,173948,4
+0PGD0ClYnArbVlyu5JqZfp,Treasure,FEST 2022 - Musikken til din FEST,Bruno Mars,2,0.874,0.692,5,-5.28,0,0.043,0.0412,7.4e-05,0.324,0.938,116.02,178560,4
+6vJS2NVmaWBx4lf70KSt99,Sus,FEST 2022 - Musikken til din FEST,Gobs,3,0.808,0.682,9,-5.829,1,0.212,0.404,1.73e-06,0.298,0.467,130.299,130197,4
+1GfBLbAhZUWdseuDqhocmn,Rumble,Rumble,Skrillex,65,0.81,0.836,1,-7.721,0,0.0645,0.0515,0.229,0.0598,0.0585,139.979,146571,4
+5f2CcxzZoW7hNs1O8NhG6y,When I Get Old,When I Get Old,Christopher,56,0.746,0.62,9,-4.158,0,0.0313,0.262,0.0,0.189,0.686,127.436,184733,4
+1bvgkalaRtmvcMHDHNbWiW,Crazy What Love Can Do,FEST 2022 - Musikken til din FEST,David Guetta,3,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,169756,4
+1FvalQLPpIvGW6fvsKFr2U,The Motto,FEST 2022 - Musikken til din FEST,Tiësto,3,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,164819,4
+7t16bZxnaETv2GomSZ2Che,Shivers,FEST 2022 - Musikken til din FEST,Ed Sheeran,3,0.788,0.859,2,-2.724,1,0.0856,0.281,0.0,0.0424,0.822,141.02,207853,4
+4W5P38bz9Xz2xYvxbltZRe,Levitating,FEST 2022 - Musikken til din FEST,Dua Lipa,3,0.702,0.825,6,-3.787,0,0.0601,0.00883,0.0,0.0674,0.915,102.977,203064,4
+2xzrSn2taxHhHtZPt5S9fr,Head & Heart,FEST 2022 - Musikken til din FEST,Joel Corry,3,0.734,0.874,8,-3.158,1,0.0662,0.168,1.14e-05,0.0489,0.905,122.953,166028,4
+0LSvnLg5EdsWS49BldKMCV,Want to Want Me,FEST 2022 - Musikken til din FEST,Jason Derulo,3,0.772,0.643,0,-6.24,0,0.063,0.0102,0.0,0.0705,0.669,114.031,206280,4
+1PDVmNFuuegSWujxf7PXZx,Unz Unz,FEST 2022 - Musikken til din FEST,Specktors,4,0.898,0.662,6,-6.455,0,0.0556,0.029,1.72e-05,0.081,0.924,124.02,175316,4
+2t6A0WRmfYd4hheILLv0nP,Light Switch,FEST 2022 - Musikken til din FEST,Charlie Puth,2,0.69,0.626,6,-5.693,1,0.306,0.105,0.000335,0.0881,0.912,184.009,185681,4
+4g3UxuAgAeK89X3muDTv2E,Hot!,FEST 2022 - Musikken til din FEST,Nik & Jay,4,0.831,0.928,9,-5.085,0,0.0732,0.301,7.38e-06,0.436,0.944,125.01,192840,4
+6Dy1jexKYriXAVG6evyUTJ,OUT OUT (feat. Charli XCX & Saweetie),OUT OUT (feat. Charli XCX & Saweetie),Joel Corry,75,0.787,0.833,8,-4.403,1,0.0478,0.018,0.00747,0.0374,0.796,123.97,162604,4
+5OjWgDKlJhWyRNhYonDnay,Jeg har en pige,FEST 2022 - Musikken til din FEST,Skinz,5,0.72,0.588,11,-7.593,1,0.0482,0.137,0.0,0.058,0.589,143.944,201630,4
+3oqoVJHEh3oO237BHSBdQ6,Dance Monkey,FEST 2022 - Musikken til din FEST,Tones And I,3,0.824,0.587,6,-6.401,0,0.0937,0.69,0.000105,0.149,0.514,98.029,209438,4
+4RatZCwut3x2BVzXubSmfO,The Business,FEST 2022 - Musikken til din FEST,Tiësto,2,0.798,0.62,8,-7.079,0,0.232,0.414,0.0192,0.112,0.235,120.031,164000,4
+0cFbtgtz56D4RWguHDmbaZ,Electric Motion,FEST 2022 - Musikken til din FEST,Drew Sycamore,2,0.699,0.745,0,-4.67,1,0.034,0.00222,0.000143,0.315,0.515,110.026,191300,4
+68ixQfuJ2c4ASC6XMrR9Hw,If You Really Love Me (How Will I Know),FEST 2022 - Musikken til din FEST,David Guetta,2,0.692,0.883,7,-4.698,1,0.0582,0.0512,0.0,0.228,0.614,122.984,184390,4
+0BWRo93SBFPrgCpnSR28I1,I Like It,FEST 2022 - Musikken til din FEST,Cardi B,2,0.815,0.727,5,-3.998,0,0.128,0.101,0.0,0.372,0.649,136.045,253390,4
+3Wqbb5jxb7NCOsCJXpebki,Juice,FEST 2022 - Musikken til din FEST,Lizzo,2,0.767,0.889,0,-2.988,1,0.0969,0.00611,0.0,0.402,0.839,119.92,195145,4
+37Rl9Q6gN9kW7V0OW6j2FQ,Take You Dancing,FEST 2022 - Musikken til din FEST,Jason Derulo,3,0.789,0.711,2,-4.248,1,0.041,0.0332,0.0,0.0876,0.753,112.985,190306,4
+4OLFCpjPOEmxFEbL0ptSyM,Thorns,FEST 2022 - Musikken til din FEST,Faustix,2,0.708,0.825,4,-3.117,1,0.0614,0.031,0.0,0.191,0.662,109.991,186000,4
+2yEHX6MqAXPyD7bm47A2Br,Pump It Louder,Pump It Louder,Tiësto,66,0.66,0.942,4,-2.273,1,0.185,0.00789,1.76e-05,0.834,0.543,126.017,158571,4
+5jEBS4k3bRrkjtnPIncavR,Locked out of Heaven,FEST 2022 - Musikken til din FEST,Bruno Mars,2,0.726,0.699,5,-4.165,1,0.0431,0.049,0.0,0.309,0.866,143.994,233478,4
+0lZG6L5k9A7HRRd2b1egtD,Play Hard,FEST 2022 - Musikken til din FEST,David Guetta,2,0.691,0.921,8,-1.702,0,0.0535,0.174,0.0,0.331,0.802,130.072,201000,4
+2USbscNPHlFPnKnNrzEhpe,Genie in a Bottle,FEST 2022 - Musikken til din FEST,Faustix,3,0.724,0.836,5,-5.144,0,0.0896,0.0268,4.67e-05,0.214,0.41,124.037,153508,4
+0zKbDrEXKpnExhGQRe9dxt,Lay Low,Lay Low,Tiësto,77,0.555,0.884,1,-4.424,0,0.213,0.0645,8.18e-05,0.349,0.42,121.906,153443,4
+0HKjNNaci5sBrBDFJlDm2n,I Just Called,FEST 2022 - Musikken til din FEST,Anne-Marie,1,0.626,0.849,7,-3.662,1,0.123,0.0732,0.0,0.593,0.898,138.997,150560,4
+4keHftEBMuSSCja7LtL69A,Running up That Hill,FEST 2022 - Musikken til din FEST,SMYLES,2,0.728,0.807,11,-5.052,0,0.0438,0.02,1.31e-06,0.107,0.406,121.031,170702,4
+64Qdz7iWnLn15SgOlwU4cZ,Sugar,FEST 2022 - Musikken til din FEST,Robin Schulz,2,0.635,0.813,5,-5.098,0,0.0578,0.0187,0.0,0.163,0.641,123.065,219043,4
+3RjG7K3VPzOUWbcrvAKBNK,Nummer,Nummer,Faustix,38,0.811,0.663,6,-5.357,0,0.178,0.175,0.0,0.171,0.766,117.098,164602,4
+0lwyzp7GppQxv0Eu6wRkUo,Satisfaction,Satisfaction,David Guetta,71,0.752,0.935,11,-6.263,1,0.203,0.0742,0.0352,0.081,0.31,126.022,155677,4
+0mDXpDyzkQRqSxfDbgMf27,Titanium,FEST 2022 - Musikken til din FEST,David Guetta,2,0.604,0.788,0,-3.673,0,0.103,0.0678,0.153,0.127,0.301,126.06,245040,4
+04jzi66JmAOxgGJHkAb0nj,Don't Be Shy,FEST 2022 - Musikken til din FEST,Tiësto,2,0.77,0.787,11,-3.748,0,0.0583,0.198,0.0,0.262,0.513,119.986,140500,4
+3Xi02othJWRFGcgFzZMsxX,Used to Know Me,FEST 2022 - Musikken til din FEST,Charli XCX,2,0.711,0.931,1,-4.042,1,0.0323,0.0914,4.41e-05,0.0892,0.775,118.009,145840,4
+4hIeUUVZi2gxdiEzOc97Vy,Boing!,FEST 2022 - Musikken til din FEST,Nik & Jay,2,0.765,0.678,11,-6.153,0,0.0669,0.211,0.0,0.287,0.763,124.921,197320,4
+7G1r7NtJUb1XRL8pNzmctt,Rockabye,FEST 2022 - Musikken til din FEST,Clean Bandit,2,0.724,0.759,9,-3.996,0,0.0544,0.411,0.0,0.437,0.765,101.943,250456,4
+2USlegnFJLrVLpoVfPimKB,Thunder,Thunder,Gabry Ponte,80,0.67,0.896,1,-4.673,1,0.058,0.0342,3.21e-05,0.344,0.403,101.216,160000,3
+7mFj0LlWtEJaEigguaWqYh,Sweetest Pie,Sweetest Pie,Megan Thee Stallion,70,0.814,0.628,7,-7.178,1,0.221,0.167,0.0,0.101,0.677,123.977,201334,4
+4vzJrkfHbCGaodPA5RY5BV,Loading,Wild West,Central Cee,71,0.85,0.68,3,-6.18,0,0.338,0.732,0.0,0.0964,0.694,144.006,173333,1
+3Vo4wInECJQuz9BIBMOu8i,Finesse - Remix; feat. Cardi B,Finesse (Remix) [feat. Cardi B],Bruno Mars,74,0.704,0.859,5,-4.877,0,0.0996,0.0185,0.0,0.0215,0.926,105.115,217289,4
+20on25jryn53hWghthWWW3,Do It To It,Do It To It,ACRAZE,79,0.854,0.806,11,-8.262,0,0.0886,0.0209,0.0542,0.0703,0.637,124.927,157890,4
+2WfaOiMkCvy7F5fcp2zZ8L,Take on Me,Hunting High and Low,a-ha,88,0.573,0.902,6,-7.638,0,0.054,0.018,0.00125,0.0928,0.876,84.412,225280,4
+1D2ZNECRd7KIlA4pyOUGsv,What Would You Do?,What Would You Do?,Joel Corry,63,0.687,0.895,9,-2.983,1,0.0474,0.149,0.00592,0.121,0.686,124.041,174215,4
+26KOUSe9W0ZsTxMgNfbmq1,Where Did You Go?,Where Did You Go?,Jax Jones,0,0.774,0.784,10,-4.549,1,0.0351,0.194,1.07e-05,0.293,0.533,127.042,177689,4
+70iVmItC1v32Wn1iosoXFx,Losing Game (feat. ALY),Losing Game (feat. ALY),Faustix,21,0.665,0.834,9,-5.641,0,0.0527,0.167,6.43e-05,0.126,0.553,100.036,158233,4
+7qiZfU4dY1lWllzX7mPBI3,Shape of You,÷ (Deluxe),Ed Sheeran,86,0.825,0.652,1,-3.183,0,0.0802,0.581,0.0,0.0931,0.931,95.977,233713,4
+66hayvUbTotekKU3H4ta1f,Where Are Ü Now (with Justin Bieber),Skrillex and Diplo present Jack Ü,Jack Ü,74,0.432,0.781,4,-4.038,0,0.0567,0.041,4.21e-06,0.0789,0.197,139.432,250286,4
+3bidbhpOYeV4knp8AIu8Xn,Can't Hold Us (feat. Ray Dalton),The Heist,Macklemore & Ryan Lewis,80,0.641,0.922,2,-4.457,1,0.0786,0.0291,0.0,0.0862,0.847,146.078,258343,4
+1evWpIlEfSZnXtHtpILB6b,Calabria,Calabria,DMNDS,0,0.729,0.914,10,-3.31,0,0.0624,0.016,0.44,0.0527,0.355,124.027,128563,4
+6BLu3dd0GZM7jCDET7GSoL,Groovejet (If This Ain't Love) [feat. Sophie Ellis-Bextor] - Purple Disco Machine & Lorenz Rhode Remix,Groovejet (If This Ain't Love) [feat. Sophie Ellis-Bextor] [Purple Disco Machine & Lorenz Rhode Remix],Spiller,56,0.721,0.666,9,-6.38,0,0.0373,0.0794,0.000545,0.134,0.861,123.019,208093,4
+47qeWYZT369E5Aug5D5nm2,If It Weren’t For You,If It Weren’t For You,Christopher,40,0.677,0.709,1,-3.867,1,0.098,0.00873,0.0,0.173,0.459,160.982,150463,4
+0ZLuW8uOXdFNWcI40C0OC2,"Whats Poppin (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix] - Bonus Track",Thats What They All Say,Jack Harlow,65,0.904,0.723,11,-5.224,0,0.26,0.0631,0.0,0.185,0.835,145.013,227478,4
+1z3ugFmUKoCzGsI6jdY4Ci,Like a Prayer,Celebration (double disc version),Madonna,74,0.625,0.842,5,-5.285,1,0.0376,0.264,2.12e-05,0.181,0.26,111.038,342680,4
+6zSpb8dQRaw0M1dK8PBwQz,Cold Heart - PNAU Remix,Cold Heart (PNAU Remix),Elton John,83,0.796,0.798,1,-6.312,1,0.0317,0.034,4.19e-05,0.0952,0.942,116.032,202735,4
+22UDw8rSfLbUsaAGTXQ4Z8,American Boy,Shine,Estelle,2,0.727,0.729,0,-2.99,1,0.326,0.171,0.0,0.07,0.512,117.932,284733,4
+2prnn41CblB8B4yWACDljP,Love Tonight (David Guetta Remix Edit),Love Tonight (David Guetta Remix),Shouse,78,0.621,0.989,10,-4.225,0,0.0434,0.015,0.357,0.184,0.0348,126.002,158095,4
+0B3H6se7MYo3D7BmzfvdVN,The Parade,The Parade,Joel Corry,61,0.793,0.886,10,-5.071,0,0.0445,0.000755,0.878,0.296,0.285,124.04,158725,4
+0vYdWMxB2JbXNe2wljt88D,Knees Are Trembling (feat. Joakim Wilow),Knees Are Trembling (feat. Joakim Wilow),Faustix,23,0.721,0.661,4,-5.908,1,0.0316,0.169,1.25e-06,0.139,0.852,127.93,152115,4
+5K6Ssv4Z3zRvxt0P6EKUAP,Heartbreak Anthem (with David Guetta & Little Mix),Heartbreak Anthem (with David Guetta & Little Mix),Galantis,75,0.595,0.784,1,-4.878,1,0.102,0.216,0.0,0.0608,0.479,124.111,183726,4
+4fouWK6XVHhzl78KzQ1UjL,abcdefu,abcdefu,GAYLE,76,0.695,0.54,4,-5.692,1,0.0493,0.299,0.0,0.367,0.415,121.932,168602,4
+5v4GgrXPMghOnBBLmveLac,Savage Remix (feat. Beyoncé),Savage Remix (feat. Beyoncé),Megan Thee Stallion,63,0.822,0.743,10,-4.772,0,0.28,0.016,0.0,0.127,0.636,84.459,242001,4
+2m0M7YqCy4lXfedh18qd8N,Into the Groove,Celebration (double disc version),Madonna,66,0.731,0.856,10,-4.164,0,0.0351,0.0664,0.00857,0.0691,0.805,116.472,285093,4
+7Fbx8mVJy36dsVq9IYTRXu,Sextacy,Sextacy,SIDEPIECE,55,0.809,0.953,1,-4.793,0,0.048,0.00439,0.312,0.312,0.873,125.008,153600,4
+5YaskwnGDZFDRipaqzbwQx,Your Love (9PM),Your Love (9PM),ATB,77,0.669,0.784,7,-5.603,1,0.112,0.194,6.28e-06,0.115,0.517,125.993,150053,4
+2UT3iEU7uQAXNUxCKfiZAj,Dancing on My Own,"Body Talk, Pt.1",Robyn,56,0.687,0.865,6,-4.663,1,0.0349,0.0743,0.226,0.0966,0.261,117.015,288670,4
+1pKYYY0dkg23sQQXi0Q5zN,Around the World,Homework,Daft Punk,73,0.956,0.795,7,-5.311,1,0.15,0.00356,0.889,0.0906,0.841,121.294,429533,4
+4cG7HUWYHBV6R6tHn1gxrl,Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit,Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit],Riton,79,0.824,0.862,2,-3.424,1,0.126,0.0076,0.000132,0.303,0.801,122.98,169153,4
+0qc4QlcCxVTGyShurEv1UU,Post Malone (feat. RANI),Magnets EP,Sam Feldt,64,0.59,0.642,7,-3.87,1,0.122,0.0771,0.0,0.105,0.651,107.356,174444,4
+2GajeoOS17ifAmYX8xxPZw,Ibiza,Mere End Musik,Benny Jamz,56,0.882,0.727,9,-6.539,0,0.259,0.125,0.0,0.113,0.407,133.131,219072,4
+6h0BvxUlyDhF9VM4zv022W,Running Heart,Running Heart,Jovani,28,0.684,0.788,7,-6.097,0,0.0399,0.0772,4.57e-06,0.108,0.154,125.0,171840,4
+1W1q2zYXgpU8G96dnvMqdE,Alors On Danse,Alors On Danse,Dance Fruits Music,49,0.513,0.734,8,-5.399,0,0.0792,0.0816,0.000287,0.0945,0.601,123.688,122633,4
+4QLLFup539IRKw5ZIGxQEk,Memories - 2021 Remix,FEST 2022 - Musikken til din FEST,David Guetta,3,0.709,0.783,5,-5.944,0,0.0551,0.108,4.1e-05,0.103,0.648,127.043,162992,4
+4vypFyIfYWPva4ANVD399K,Love Grows (Where My Rosemary Goes),FEST 2022 - Musikken til din FEST,SMYLES,2,0.691,0.624,9,-8.82,1,0.032,0.09,1.3e-05,0.0896,0.663,114.976,139826,4
+0V8luaxtJZzVdQZGkUiwh9,Tusind stykker (Micky Skeel Version),FEST 2022 - Musikken til din FEST,Micky Skeel,2,0.772,0.703,10,-5.891,1,0.0349,0.0977,0.00022,0.139,0.448,134.996,137785,4
+5WzNRcRutKDfMUniBJZR2s,Anywhere,FEST 2022 - Musikken til din FEST,Rita Ora,2,0.649,0.743,11,-6.042,0,0.068,0.0342,0.0,0.0855,0.344,106.916,215827,4
+32hbnhwfazhxLH8wXFyV8T,Believe,FEST 2022 - Musikken til din FEST,Cher,2,0.653,0.932,6,-5.269,1,0.0502,0.00884,0.0,0.177,0.392,132.983,239347,4
+6t1S0jjgRAAjOwcs12ucvC,We Are Family,FEST 2022 - Musikken til din FEST,Sister Sledge,2,0.784,0.893,7,-5.153,0,0.0923,0.3,1.67e-05,0.272,0.819,118.738,216733,4
+3AvIxhONFbFUT3HSO3LwI2,Low,FEST 2022 - Musikken til din FEST,Flo Rida,2,0.918,0.609,10,-5.64,0,0.0787,0.0914,0.0,0.139,0.305,128.007,231400,4
+1yOyJunTGcRIPAcJ2l9fii,Work It,FEST 2022 - Musikken til din FEST,Missy Elliott,2,0.884,0.677,1,-5.603,1,0.283,0.0778,0.0,0.0732,0.584,101.867,263227,4
+7aXBo2WhZt1f6UeISrHoCG,Fall So Hard - Tungevaag Remix,Fall So Hard (Tungevaag Remix),Christopher,22,0.633,0.839,0,-3.823,1,0.0453,0.0336,0.0,0.574,0.453,127.992,169687,4
+60G0YTBb4gtAgb0ODAPNAn,What A Life,What A Life,Scarlet Pleasure,48,0.716,0.572,9,-5.095,0,0.0391,0.799,1.89e-06,0.0793,0.64,113.779,185942,4
+0BcavGCGKpR0lCobxJ1Cjv,"Good Times - 7"" Edit; 2018 Remaster",FEST 2022 - Musikken til din FEST,CHIC,2,0.855,0.643,11,-12.03,0,0.049,0.0945,5.95e-05,0.165,0.704,110.098,225747,4
+7yH8woa3JBiYuwNb2ylYRf,Strong Enough,FEST 2022 - Musikken til din FEST,Cher,2,0.589,0.923,2,-6.19,0,0.102,0.0495,0.0,0.29,0.585,124.939,224000,4
+4IitX0pyI36l8Mgk7oWkyL,That's What I Like,FEST 2022 - Musikken til din FEST,Bruno Mars,2,0.852,0.551,1,-4.951,1,0.0416,0.0146,0.0,0.0898,0.85,134.061,205080,4
+4U4JN00it1KK9LW0ZHEEsm,Get Busy,FEST 2022 - Musikken til din FEST,Sean Paul,2,0.741,0.824,10,-4.143,0,0.0352,0.614,0.0,0.158,0.725,100.216,211666,4
+0Il6MhbCYTF1TBYa61uLWc,Rather Be Rather Be - Jack Patterson & Wez Clarke Remix,FEST 2022 - Musikken til din FEST,Clean Bandit,2,0.799,0.587,11,-6.735,1,0.0378,0.163,2.24e-06,0.193,0.55,120.97,227833,4
+2nZ1k3RyJ6TzzIoqUmrpog,Return of the Mack - C & J Street Mix,FEST 2022 - Musikken til din FEST,Mark Morrison,2,0.715,0.834,2,-5.379,1,0.109,0.00631,0.0,0.164,0.604,95.487,213093,4
+3PJlHIZgfLuDrxY77dBRvX,Can't Get You Out of My Head,FEST 2022 - Musikken til din FEST,Kylie Minogue,2,0.768,0.55,9,-7.604,0,0.034,0.0269,0.582,0.0889,0.965,126.013,231480,4
+09GhjoRpDbzQPsXsBdQVjp,I Don't Care,FEST 2022 - Musikken til din FEST,Ed Sheeran,2,0.798,0.676,6,-5.041,1,0.0442,0.0902,0.0,0.0894,0.843,101.956,219947,4
+4j9QkyZOP0bZuxveEOE0xv,Love Again,FEST 2022 - Musikken til din FEST,Dua Lipa,2,0.659,0.667,11,-4.668,0,0.0339,0.00173,2.85e-05,0.1,0.468,115.982,258004,4
+5uEYRdEIh9Bo4fpjDd4Na9,Goosebumps - Remix,Goosebumps (Remix),Travis Scott,77,0.841,0.593,1,-7.846,1,0.0379,0.418,0.0,0.124,0.808,124.917,162803,4
+4OoYfejHABzYe2mG8p5s8b,Higher (feat. iann dior),Higher (feat. iann dior),Clean Bandit,54,0.716,0.736,1,-5.18,0,0.0363,0.336,1.4e-05,0.137,0.542,104.018,203953,4
+6oqXBLsWX8w9xUuc174q1B,I Wish,FEST 2022 - Musikken til din FEST,Joel Corry,2,0.686,0.856,9,-2.717,0,0.0426,0.0896,0.0,0.0648,0.733,123.997,181728,4
+4Oun2ylbjFKMPTiaSbbCih,WAP (feat. Megan Thee Stallion),WAP (feat. Megan Thee Stallion),Cardi B,77,0.935,0.454,1,-7.509,1,0.375,0.0194,0.0,0.0824,0.357,133.073,187541,4
+3vrm4dNThrhQ0BArrLIUOV,Somebody's Watching Me,Somebody's Watching Me,Chico Rose,66,0.712,0.857,1,-4.922,0,0.052,0.0855,9.98e-05,0.0723,0.207,124.963,176640,4
+2u6Jm2klS4yvAlbSHlxUwI,Alane,Alane,Robin Schulz,55,0.581,0.799,3,-6.66,1,0.164,0.0419,9.43e-06,0.11,0.662,124.002,175016,4
+6RnkFd8Fqqgk1Uni8RgqCQ,Like I Do,Like I Do,David Guetta,62,0.635,0.9,0,-3.719,0,0.0377,0.00664,0.0145,0.37,0.15,127.978,202500,4
+0HbPfCPmndvkevg4TjwcJQ,Complicated - Faustix Remix,Complicated (Faustix Remix),Alexander Oscar,46,0.789,0.728,1,-7.869,0,0.129,0.0473,1.33e-05,0.334,0.645,124.995,147840,4
+0fH86zQcE2CmATQju6WpXv,Are You Sure? (feat. Ty Dolla $ign),Are You Sure? (feat. Ty Dolla $ign),Kris Kross Amsterdam,41,0.685,0.819,1,-3.748,0,0.0494,0.0918,7.33e-06,0.0934,0.607,104.978,194693,4
+3DGar7krWlmrXRFHBcQF6z,Whenever (feat. Conor Maynard),Whenever (feat. Conor Maynard),Kris Kross Amsterdam,59,0.734,0.765,7,-5.562,1,0.0621,0.151,0.0,0.231,0.518,109.989,163636,4
+1DIXPcTDzTj8ZMHt3PDt8p,Gangsta's Paradise,Gangsta's Paradise,Coolio,85,0.647,0.514,8,-10.05,1,0.0593,0.0655,0.0,0.398,0.386,79.975,240693,4
+4WxU1gDVmoH6gstgR0MT78,Lean On,Peace Is The Mission,Major Lazer,43,0.723,0.809,7,-3.081,0,0.0625,0.00346,0.00123,0.565,0.274,98.007,176561,4
+2wOVXsIRIoniqipE9I5ZVx,Only Want You - Sam Feldt Remix,Only Want You (Sam Feldt Remix),Rita Ora,53,0.578,0.786,9,-4.665,1,0.13,0.232,0.000106,0.122,0.347,105.945,179151,4
+19TOAlTFq0NDHvUPQR0tkr,South of the Border (feat. Camila Cabello & Cardi B) - Cheat Codes Remix,South of the Border (feat. Camila Cabello & Cardi B) [Cheat Codes Remix],Ed Sheeran,58,0.845,0.766,2,-5.727,0,0.0658,0.212,0.0,0.111,0.782,114.054,195924,4
+6IIOcnq93QAaKeRX1cs16v,No Drama (feat. Craig David),No Drama (feat. Craig David),James Hype,53,0.73,0.934,4,-3.995,1,0.078,0.168,2.56e-05,0.142,0.758,122.018,153310,4
+5XIni3vIYxVmtF6mT40G9M,I Promised Myself,FEST 2022 - Musikken til din FEST,SMYLES,2,0.712,0.865,9,-5.597,1,0.0351,0.167,1.39e-05,0.0832,0.347,129.98,206935,4
+1qTLix04bTpK0rkJAWdelN,Sweet but Psycho - Morgan Page Remix,FEST 2022 - Musikken til din FEST,Ava Max,1,0.645,0.794,1,-5.439,1,0.0342,0.0351,1.1e-05,0.089,0.428,127.95,226875,4
+1wZoAXCZRDnfnysRElUEHg,Talk Dirty,FEST 2022 - Musikken til din FEST,Jason Derulo,4,0.751,0.653,6,-7.321,1,0.242,0.0348,0.0,0.307,0.757,100.245,177685,4
+64R40V8cCCcT7EbcObtwyX,Wild Ones,FEST 2022 - Musikken til din FEST,Flo Rida,2,0.608,0.86,5,-5.324,0,0.0554,0.1,0.0,0.262,0.437,127.075,232947,4
+4eMkkNssNjDLhLvPkNjBve,Feel Good Inc,FEST 2022 - Musikken til din FEST,Gorillaz,2,0.817,0.705,6,-6.679,1,0.177,0.00836,0.00233,0.613,0.771,138.559,222640,4
+2ByGKiiUImXRfwx0tCeRyU,Groove Is in the Heart,FEST 2022 - Musikken til din FEST,Deee-Lite,1,0.695,0.882,1,-4.053,0,0.0699,0.015,0.0205,0.0851,0.931,121.549,231787,4
+488JYJmG6Cfd8LgG7SJh1k,I'm Every Woman,FEST 2022 - Musikken til din FEST,Chaka Khan,1,0.617,0.901,0,-6.835,0,0.0448,0.123,7.18e-05,0.324,0.731,114.521,247360,4

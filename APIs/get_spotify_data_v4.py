@@ -28,8 +28,8 @@ def spotify_call(func, *args, **kwargs):
 
 # Set up Spotify API client
 auth_manager = SpotifyOAuth(
-    client_id='',
-    client_secret='',
+    client_id='14f6df2df62c47ae827a150b45bc3145',
+    client_secret='cb04e2ca7f3040edb35dc5dba495a7f4',
     redirect_uri='https://localhost:3000',
     scope='playlist-read-private playlist-read-collaborative'
 )
@@ -70,11 +70,13 @@ def get_audio_features(sp, track_ids):
         audio_features.extend(batch_features if batch_features else [])
     return audio_features
 
-# Playlist IDs to fetch tracks from
-danish_playlist_ids = [
-    '01LfUDruOSfEocS5uVt1FE',
-]
 
+# Playlist IDs to fetch tracks from
+danish_playlist_ids = [ 
+                       '3olzxKso8UgRzvmKT1eLYS',
+                       '0eWcoT7gGiCyKa683fRQJt'
+
+    ]
 # Fetch tracks and audio features
 all_tracks = []
 for pid in danish_playlist_ids:
@@ -97,6 +99,10 @@ selected_columns = [
     'danceability', 'energy', 'key', 'loudness', 'mode', 'speechiness',
     'acousticness', 'instrumentalness', 'liveness', 'valence', 'tempo',
     'duration_ms', 'time_signature'
+    
 ]
-df[selected_columns].to_csv('danish_hitlist_songs4.csv', index=False)
+df[selected_columns].to_csv('danish_hitlist_songs19.csv', index=False)
 print(f"Data for {len(df)} tracks saved to 'danish_hitlist_songs.csv'")
+
+
+
