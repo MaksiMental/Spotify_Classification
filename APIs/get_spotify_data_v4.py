@@ -28,8 +28,8 @@ def spotify_call(func, *args, **kwargs):
 
 # Set up Spotify API client
 auth_manager = SpotifyOAuth(
-    client_id='14f6df2df62c47ae827a150b45bc3145',
-    client_secret='cb04e2ca7f3040edb35dc5dba495a7f4',
+    client_id=',
+    client_secret='',
     redirect_uri='https://localhost:3000',
     scope='playlist-read-private playlist-read-collaborative'
 )
