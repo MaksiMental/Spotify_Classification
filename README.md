@@ -21,6 +21,7 @@ Below are our results
 see the folder Visualizations for all figures
 
 ## Requirements
+Note: you need a python kernel with a version that is newer than 3.12
 
 See requirements.txt for packages and below to install.
 
