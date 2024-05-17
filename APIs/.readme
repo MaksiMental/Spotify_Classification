@@ -1,0 +1,39 @@
+# Spotify Data Gathering 
+
+This Python script uses the Spotipy library to fetch track details and audio features from specified Spotify playlists. The data is then saved to a CSV file.
+
+## Dependencies
+- spotipy
+- pandas
+- backoff
+
+## How it works
+1. The script first sets up the Spotify API client using the Spotipy library and OAuth2 authentication.
+
+2. It then fetches tracks from the specified playlists using the `get_playlist_tracks` function. This function makes a call to the Spotify API and retrieves track details such as track ID, name, album, artist ID, artist name, and popularity.
+
+3. The `get_audio_features` function is used to fetch audio features for the tracks. These features include danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence, tempo, duration, and time signature.
+
+4. The track details and audio features are then merged and saved to a DataFrame.
+
+5. Finally, the DataFrame is saved to a CSV file.
+
+## Usage
+1. Replace `'env'` in the SpotifyOAuth call with your Spotify client ID and client secret.
+
+2. Also, replace the playlist IDs in the `danish_playlist_ids` list with the IDs of the playlists you want to fetch data from.
+
+3. Run the script with Python:
+
+    ```bash
+    py script.py
+    ```
+
+    The script will print out the progress of the data fetching process and save the data to `'danish_hitlist_songs19.csv'`.
+
+## Error Handling
+- The script uses the backoff library to implement exponential backoff for the Spotify API calls. This helps handle rate limits and server errors by retrying the request after a delay. The delay increases exponentially with each retry, up to a maximum of 10 tries.
+
+- If a SpotifyException occurs during an API call, the exception is printed and re-raised.
+
+- If the Spotify API returns no response, a SpotifyException is raised with the message `'No response from Spotify API'`.
