@@ -1,0 +1,10 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+imbalanced-learn
+tensorflow
+xgboost
+scikit-optimize
+graphviz
