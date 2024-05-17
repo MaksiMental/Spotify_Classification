@@ -6,15 +6,13 @@ The ability to predict a song’s popularity based on metadata and attributes ho
 Below are our results
 
 ```
-$ print(data_frame.corr())
-
-Model	                      Precision	Recall	F1 Score
-Voting Classifier	          0.862935	0.847008	0.854897
-XGBoost Under-sampled	      0.876311	0.831579	0.853359
-XGBoost Over-sampled	      0.825533	0.859697	0.842269
-Random Forest Under-sampled	0.788168	0.618601	0.693165
-Random Forest Over-sampled	0.461708	0.875415	0.604561
-Dummy Classifier	          0.239006	1.000000	0.385803
+Model	                          Precision	Recall	F1 Score
+Voting Classifier	              0.862935	0.847008	0.854897
+XGBoost Under-sampled	          0.876311	0.831579	0.853359
+XGBoost Over-sampled	          0.825533	0.859697	0.842269
+Random Forest Under-sampled	    0.788168	0.618601	0.693165
+Random Forest Over-sampled	    0.461708	0.875415	0.604561
+Dummy Classifier	              0.239006	1.000000	0.385803
 ```
 
 ## Requirements
