@@ -21,7 +21,13 @@ Below are our results
 see the folder Visualizations for all figures
 
 ## Requirements
-Note: you need a python kernel with a version that is newer than 3.12
+Note: 
+
+If you get an error running cells with "Python 3.xx.x" requires ipykernel package, run the following comand to install ipykernal into python environment
+
+Command: '/usr/local/bin/python3 -m pip install ipykernel -U --user --force-reinstall'
+
+you need a python kernel with a version that is newer than 3.12
 
 See requirements.txt for packages and below to install.
 
