@@ -30,6 +30,3 @@ $ pip install -r requirements.txt
 ```
 
 Locate the Code.ipybn and press run all
-```bash
-$ pip install -r requirements.txt
-```
