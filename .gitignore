@@ -9,7 +9,6 @@ venv/
 env/
 env.bak/
 env1/
-env2/
 .env
 
 # IDE
@@ -34,5 +33,8 @@ Thumbs.db
 .cache
 
 Spotify_data.csv
+
+
+
 
 
