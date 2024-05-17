@@ -29,7 +29,6 @@ Install the dependencies:
 $ pip install -r requirements.txt
 ```
 
-Locate the Code.ipybn and press run all
-
+Locate the Classification-Project.ipybn and press run all
 
 Note: The requirements.txt file lists the top-level packages to be installed with pip. The specific modules and classes imported in the Python code (like from sklearn.metrics import classification_report, accuracy_score, ConfusionMatrixDisplay, roc_curve, roc_auc_score, PrecisionRecallDisplay, precision_recall_curve, auc, confusion_matrix) are part of these top-level packages. For example, all the sklearn imports are part of the scikit-learn package.
