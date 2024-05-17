@@ -17,16 +17,17 @@ Dummy Classifier	               0.239006	 1.000000	  0.385803
 
 ## Requirements
 
-Developed with Python version 3.9
-
 See requirements.txt for packages and versions (and below to install).
 
 ## Setup
 
-Clone the Git repo.
-
 Install the dependencies:
 
+```bash
+$ pip install -r requirements.txt
+```
+
+Locate the Code.ipybn and press run all
 ```bash
 $ pip install -r requirements.txt
 ```
