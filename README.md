@@ -17,6 +17,9 @@ Below are our results
 
 ```
 
+## Visualizations
+see the folder Visualizations for all figures
+
 ## Requirements
 
 See requirements.txt for packages and versions (and below to install).
