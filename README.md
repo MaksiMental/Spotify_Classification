@@ -30,6 +30,7 @@ Install the dependencies:
 
 ```bash
 $ pip install -r requirements.txt
+$ pip3 install -q requirements.txt
 ```
 
 Locate the Classification-Project.ipybn and press run all

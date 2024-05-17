@@ -10,6 +10,8 @@ scikit-optimize
 graphviz
 keras
 skopt
+ipykernel
 
 # Install the packages
-!pip install -q pandas numpy seaborn matplotlib scikit-learn imbalanced-learn tensorflow xgboost scikit-optimize graphviz keras
+!pip install -q pandas numpy seaborn matplotlib scikit-learn imbalanced-learn tensorflow xgboost scikit-optimize graphviz keras skopt
+!pip3 install -q pandas numpy seaborn matplotlib scikit-learn imbalanced-learn tensorflow xgboost scikit-optimize graphviz keras skopt
